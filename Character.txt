@@ -27,6 +27,7 @@ Eqipment:
     - Simple Wooden Shield 
     - Explorer's pack
     - Mason's tools
+    - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
 
 Spells: 
