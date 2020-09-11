@@ -4,7 +4,7 @@ XP: 5125
 Level: 4
 HP: 57 (Total)
 
-Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+4 in orn)
+Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+333 in orn)
 Dex:    15                              +2 (+3 in orn)
 Cons:   17 (+2 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
 Int:    14                              +2
@@ -37,3 +37,7 @@ Spells:
     - Shield             (Lv 1), (V, S)
     - Thunder Wave       (Lv 1), (V, S)
     - Burning Hands      (Lv 1), (V, S)
+
+Spell slots: 
+    - Unlimited cantrips
+    - 3 first level

@@ -41,7 +41,7 @@ Item: +Magic Dagger (+1, +2 against evil creatures)
 # In the Mansion
 + 500 (Spider fighting)
 + 50 (Childrens equipment)
-+ 40 (suggesting hiding the artefact)
++ 50 (suggesting hiding the artefact)
 + 100 (suggesting ring of distraction to get llewellen away from orb)
 
 # Pt. 2: The Time Cops
