@@ -1,0 +1,38 @@
+# Gideon Soliloquy
+
+XP: 5125 
+Level: 4
+HP: 57 (Total)
+
+Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+4 in orn)
+Dex:    15                              +2 (+3 in orn)
+Cons:   17 (+2 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
+Int:    14                              +2
+Wis:    14                              +2
+Char:   10                              +1
+
+Skills: 
+    - Athletics (Str)
+    - Intimidation (Char)
+
+Proficiency: 
+    - Archery
+    - Mason's tools.
+
+GP: 199
+
+Eqipment:
+    - Chain Mail
+    - Battle axe (With an upgraded handle)
+    - Simple Wooden Shield 
+    - Explorer's pack
+    - Mason's tools
+    - Magic sword (+1, +2 to hit + to damage vs evil creatures)
+
+Spells: 
+    - Blade Ward         (Cantrip), (V, S)
+    - Fire Bolt          (Cantrip), (V, S)
+    - Magic Missile      (Lv 1), (V, S)
+    - Shield             (Lv 1), (V, S)
+    - Thunder Wave       (Lv 1), (V, S)
+    - Burning Hands      (Lv 1), (V, S)
