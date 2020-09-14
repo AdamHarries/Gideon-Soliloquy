@@ -4,7 +4,7 @@ XP: 5125
 Level: 4
 HP: 57 (Total)
 
-Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+333 in orn)
+Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)
 Dex:    15                              +2 (+3 in orn)
 Cons:   17 (+2 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
 Int:    14                              +2
