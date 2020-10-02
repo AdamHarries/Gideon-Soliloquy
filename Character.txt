@@ -1,7 +1,7 @@
 # Gideon Soliloquy
 
-XP: 5125 
-Level: 4
+XP: 7070 
+Level: 5
 HP: 57 (Total)
 
 Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)

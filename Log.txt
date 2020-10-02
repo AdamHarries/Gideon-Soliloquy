@@ -60,4 +60,5 @@ Item: +Magic Dagger (+1, +2 against evil creatures)
 + 70 (Using Magic Missile) 
 + 200 (getting through the mystery!)
 
-
+# Adventure in the Gith Theatre
++ 1750 (overall)
