@@ -2,7 +2,8 @@
 
 XP: 7070 
 Level: 5
-HP: 57 (Total)
+HP: 70 (Total)
+Proficiency bonus: +3
 
 Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)
 Dex:    15                              +2 (+3 in orn)
@@ -19,9 +20,13 @@ Proficiency:
     - Archery
     - Mason's tools.
 
+Fighter things: 
+    - Attack twice (when using "attack")
+    - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
+
 GP: 199
 
-Eqipment:
+Equipment:
     - Chain Mail
     - Battle axe (With an upgraded handle)
     - Simple Wooden Shield 
