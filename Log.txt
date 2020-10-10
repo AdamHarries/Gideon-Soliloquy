@@ -62,3 +62,19 @@ Item: +Magic Dagger (+1, +2 against evil creatures)
 
 # Adventure in the Gith Theatre
 + 1750 (overall)
+
+# Scouting out the route for the great race
++ 800 (for realising we're in a sphere)
++ 50 (negotiating the river)
++ 10 (for killing the wolf spider)
++ 100 (for reaching the arucaria)
++ 30 (fire bolt)
++ 50 (shield)
+
+# Further Scouting
++ 500 (for fighting the giant crocodile)
++ 50 (meeting the ent a.k.a for not being into trees)
++ 75 (meeting the dryad a.k.a not being into trees)
++ 40 (firebolt vs shambling mound)
++ 300 (for navigating, in general - going to all the trees)
++ 30 (burning hands at hinge)
