@@ -78,3 +78,9 @@ Item: +Magic Dagger (+1, +2 against evil creatures)
 + 40 (firebolt vs shambling mound)
 + 300 (for navigating, in general - going to all the trees)
 + 30 (burning hands at hinge)
+
+# Yet more scouting around Orn
++ 150 (for exploring/mapping)
++ 50 (for watching harpy killing)
++ 500 (for the fight against the Gorgon)
++ 50 (for walking on water for the first time)

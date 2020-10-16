@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 7070 
+XP: 9855 
 Level: 5
-HP: 70 (Total) (-6)
+HP: 70 (Total)
 Proficiency bonus: +3
 
 Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)
