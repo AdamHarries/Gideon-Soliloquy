@@ -84,3 +84,9 @@ Item: +Magic Dagger (+1, +2 against evil creatures)
 + 50 (for watching harpy killing)
 + 500 (for the fight against the Gorgon)
 + 50 (for walking on water for the first time)
+
+# Futzing around the village and visiting the amphitheatre again
++ 50 (For watching armour being made)
++ 20 (For eating the new capitalist food)
++ 30 (For having my portrait painted)
++ 50 (For killing the scorpion)

@@ -20,7 +20,7 @@ Proficiency:
     - Archery
     - Mason's tools.
 
-Fighter things: 
+Fighter things:
     - Attack twice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
 
