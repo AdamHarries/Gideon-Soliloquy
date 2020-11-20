@@ -1,8 +1,9 @@
 # Gideon Soliloquy
 
-XP: 9855 
+XP: 13655
 Level: 5
 HP: 70 (Total)
+Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
 Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)
@@ -27,7 +28,7 @@ Fighter things:
 GP: 199
 
 Equipment:
-    - Chain Mail
+    - Plate Mail armour (AC 18)
     - Battle axe (With an upgraded handle)
     - Simple Wooden Shield 
     - Explorer's pack

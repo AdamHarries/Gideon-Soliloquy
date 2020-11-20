@@ -90,3 +90,27 @@ Item: +Magic Dagger (+1, +2 against evil creatures)
 + 20 (For eating the new capitalist food)
 + 30 (For having my portrait painted)
 + 50 (For killing the scorpion)
++ 150 (For working on learning forging)
++ 100 (For being counted)
++ 150 (For smithery etc)
+Item: +Plate Armour
+
+# The Race!
+
++ 100 (Noticing iron wood stalker, plus attacking)
++ 200 (Surviving dragons breath)
++ 50 (For watching boat battle)
++ 1100 (For fighting vampire, and driving it off)
+
+# Race Pt 2
+
++ 500 (For finishing the race)
++ 200 (For seeing the triffids)
++ 300 (Fighting the triffid)
++ 450 (Fighting the capitalist)
++ 50 (Healing winslow)
++ 200 (Sacrificial attack on capitalist) 
+
+# Post-race 
+
++ 100 (shouty opinion piece)
