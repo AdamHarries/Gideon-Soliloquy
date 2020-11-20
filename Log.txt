@@ -109,8 +109,13 @@ Item: +Plate Armour
 + 300 (Fighting the triffid)
 + 450 (Fighting the capitalist)
 + 50 (Healing winslow)
-+ 200 (Sacrificial attack on capitalist) 
++ 200 (Sacrificial attack on capitalist)
 
-# Post-race 
+# Post-race
 
 + 100 (shouty opinion piece)
+
+# Fighting the trolls!
+
++ 900 (Fighting the trolls!)
++ 50 (Stopping hinge tinkering)
