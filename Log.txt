@@ -119,3 +119,12 @@ Item: +Plate Armour
 
 + 900 (Fighting the trolls!)
 + 50 (Stopping hinge tinkering)
+
+# Exploring the empty village and temple, and searching for the ring
+
++ 150 (Fighting the giant termites)
++ 45 (Flying underground, in tandem)
++ 150 (Fighting the Lion)
++ 200 (Battle with the earth elemental)
++ 100 (Mapping out the underground complex)
++ 50 (Seeing through illusions, opening magic doors)

@@ -6,12 +6,12 @@ HP: 81 (Total)
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
-Str:    14 (+2, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)
-Dex:    15                              +2 (+3 in orn)
-Cons:   17 (+2 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
-Int:    14                              +2
-Wis:    14                              +2
-Char:   10                              +1
+Str:    16 (14->16, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)
+Dex:    15                                  +2 (+3 in orn)
+Cons:   19 (17->19 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
+Int:    14                                  +2
+Wis:    14                                  +2
+Char:   10                                  +1
 
 Skills: 
     - Athletics (Str)
@@ -20,6 +20,7 @@ Skills:
 Proficiency: 
     - Archery
     - Mason's tools.
+    - Light and medium armour (mountain dwarf)
 
 Fighter things:
     - Attack twice (when using "attack")
