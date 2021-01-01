@@ -128,3 +128,28 @@ Item: +Plate Armour
 + 200 (Battle with the earth elemental)
 + 100 (Mapping out the underground complex)
 + 50 (Seeing through illusions, opening magic doors)
+
+# More temple exploring
+
++ 100 (First scroll reading)
++ 400 (For fighting the evil skull)
++ 500 (For fighting the wraiths)
++ 200 (A fighting escape)
+
+# More temple exploring pt 3
+
++ 100 (Exploring strange interconnected corridors)
++ 20 (Attacking the false door)
++ 200 (Fighting the cleaning creature)
++ 300 (Fighting the black pudding)
+
+# Time schenanegins 
+Money: 5 gp from hinge
++ 300 (General mapping)
++ 200 (For figuring out the water gate)
++ 50 (Using miners tool to inspect the obelisk)
++ 500 (Time travel)
++ 100 (Firebolt to distract people)
++ 400 (Use of berries to stay small)
++ 1000 (For guessing it was Gerion)
++ 100 (For an annoying plot?)

@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 13655
+XP: 17120
 Level: 6
-HP: 81 (Total)
+HP: 81 (Total) (-15-8)
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
@@ -26,7 +26,7 @@ Fighter things:
     - Attack twice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
 
-GP: 199
+GP: 204
 
 Equipment:
     - Plate Mail armour (AC 18)
@@ -37,7 +37,7 @@ Equipment:
     - Mason's tools
     - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
-    - 4 berries & leaves for growing and shrinking
+    - 6 berries & leaves for growing and shrinking
 
 Spells: 
     - Blade Ward         (Cantrip), (V, S)
@@ -49,4 +49,4 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 3 first level
+    - 3 first level (1 remaining)
