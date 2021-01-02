@@ -153,3 +153,10 @@ Money: 5 gp from hinge
 + 400 (Use of berries to stay small)
 + 1000 (For guessing it was Gerion)
 + 100 (For an annoying plot?)
+
+# Around Seguro etc
++ 150 (General exploring)
++ 100 (For going down the stairs)
++ 60 (For eventually passing the fear test)
++ 500 (Big devil fight)
++ 1200 (Big devil fight and giant strength)

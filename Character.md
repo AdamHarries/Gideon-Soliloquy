@@ -1,12 +1,13 @@
 # Gideon Soliloquy
 
-XP: 19770
+XP: 21780
 Level: 6
-HP: 81 (Total) (-15-8)
+HP: 81 (Total) (-10-7)
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
 Str:    16 (14->16, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)
+    With fire giant strength potion: 25     +7
 Dex:    15                                  +2 (+3 in orn)
 Cons:   19 (17->19 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
 Int:    14                                  +2
@@ -53,9 +54,9 @@ Spell slots:
 
 Notes from 5e tools: 
 
-########################################
+## ######################################
 ##         Weapons & Armour           ##
-########################################
+## ######################################
 
 ### Battleaxe PHB p149
 Martial weapon, melee weapon
@@ -70,7 +71,6 @@ Martial weapon, melee weapon
 Versatile.
 
 This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
-
 
 ### Shield PHB p144
 Armor (shield)
@@ -89,9 +89,9 @@ The wearer has disadvantage on Dexterity (Stealth) checks.
 
 If the wearer has a Strength score lower than 13, their speed is reduced by 10 feet.
 
-########################################
+## ######################################
 ##              Spells                ##
-########################################
+## ######################################
 
 ### Fire Bolt PHB p242
 Level 	School 	Casting Time 	Range
@@ -162,9 +162,9 @@ At Higher Levels.
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 Classes: Bard, Druid, Sorcerer, Wizard
 
-########################################
+## ######################################
 ##      Dwarf (Mountain) PHB p20      ##
-########################################
+## ######################################
 
 Ability Scores 	Size 	Speed
 Str +2; Con +2 	Medium 	25 ft.
@@ -202,9 +202,9 @@ You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard con
 ### Dwarven Armor Training.
 You have proficiency with light and medium armor.
 
-########################################
+## ######################################
 ##       Eldritch Knight PHB p74      ##
-########################################
+## ######################################
 
 The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
 
@@ -248,9 +248,9 @@ At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied s
 ### Improved War Magic PHB p74 
 Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
-########################################
+## ######################################
 ##          Fighter PHB p72           ##
-########################################
+## ######################################
 
 ### Fighting Style PHB p72 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
