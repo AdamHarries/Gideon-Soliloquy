@@ -160,3 +160,16 @@ Money: 5 gp from hinge
 + 60 (For eventually passing the fear test)
 + 500 (Big devil fight)
 + 1200 (Big devil fight and giant strength)
+
+# Travelling back from the sepulchary
++ 30 (For bravely approaching the giant)
++ 50 (General triangulation)
+
+# Initial attack on Ents
++ 30 (Burning hands)
+
+# Continuing battle 
++ 4200 (For general combat)
+
+# Second half of battle
++ 4900 (General combat)

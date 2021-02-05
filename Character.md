@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 21780
-Level: 6
-HP: 81 (Total) (-10-7)
+XP: 30990
+Level: 7
+HP: 94 (Total) -18 -15 -33 +46 -17 -17 +27 -13 = -40
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
@@ -29,11 +29,17 @@ Fighter things:
 
 GP: 204
 
+Attack Bonus: 
+    - simple:            +3 (str) +3 (proficiency) +1 (sword/axe) = 7
+    - simple vs evil:    +3 (str) +3 (proficiency) +2 (sword)     = 8
+    - giant str potion:  +7 (str) +3 (proficiency) +1 (sword/axe) = 11
+    - giant str vs evil: +7 (str) +3 (proficiency) +2 (sword)     = 12
+
 Equipment:
     - Plate Mail armour (AC 18)
-    - Mithril Armour (+4 chain - AC 20, no stealth disadvantage, no min strength)
+    - Mithril Armour (+4 chain - AC 20, no stealth disadvantage, no min strength) (23 total AC)
     - Battle axe (With an upgraded handle)
-    - Simple Wooden Shield 
+    - Simple Wooden Shield (+2)
     - Explorer's pack
     - Mason's tools
     - Dwarvish Children's book
@@ -50,13 +56,13 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 3 first level (1 remaining)
+    - 3 first level (0 remaining)
 
 Notes from 5e tools: 
 
-## ######################################
-##         Weapons & Armour           ##
-## ######################################
+## #################################### ##
+##          Weapons & Armour            ##
+## #################################### ##
 
 ### Battleaxe PHB p149
 Martial weapon, melee weapon
@@ -89,9 +95,9 @@ The wearer has disadvantage on Dexterity (Stealth) checks.
 
 If the wearer has a Strength score lower than 13, their speed is reduced by 10 feet.
 
-## ######################################
-##              Spells                ##
-## ######################################
+## #################################### ##
+##               Spells                 ##
+## #################################### ##
 
 ### Fire Bolt PHB p242
 Level 	School 	Casting Time 	Range
@@ -162,9 +168,9 @@ At Higher Levels.
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 Classes: Bard, Druid, Sorcerer, Wizard
 
-## ######################################
-##      Dwarf (Mountain) PHB p20      ##
-## ######################################
+## #################################### ##
+##        Dwarf (Mountain) PHB p20      ##
+## #################################### ##
 
 Ability Scores 	Size 	Speed
 Str +2; Con +2 	Medium 	25 ft.
@@ -202,9 +208,9 @@ You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard con
 ### Dwarven Armor Training.
 You have proficiency with light and medium armor.
 
-## ######################################
-##       Eldritch Knight PHB p74      ##
-## ######################################
+## #################################### ##
+##        Eldritch Knight PHB p74       ##
+## #################################### ##
 
 The archetypal Eldritch Knight combines the martial mastery common to all fighters with a careful study of magic. Eldritch Knights use magical techniques similar to those practiced by wizards. They focus their study on two of the eight schools of magic—abjuration and evocation. Abjuration spells grant an Eldritch Knight additional protection in battle, and evocation spells deal damage to many foes at once, extending the fighter's reach in combat. These knights learn a comparatively small number of spells, committing them to memory instead of keeping them in a spellbook.
 
@@ -248,9 +254,9 @@ At 15th level, you gain the ability to teleport up to 30 feet to an unoccupied s
 ### Improved War Magic PHB p74 
 Starting at 18th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
 
-## ######################################
-##          Fighter PHB p72           ##
-## ######################################
+## #################################### ##
+##           Fighter PHB p72            ##
+## #################################### ##
 
 ### Fighting Style PHB p72 
 You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
