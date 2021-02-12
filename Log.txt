@@ -173,3 +173,8 @@ Money: 5 gp from hinge
 
 # Second half of battle
 + 4900 (General combat)
+
+# Post-battle
++ 150 (Flying on a broomstick)
++ 150 (Using Earthbind for the first time)
++ 100 (finding winterhome)

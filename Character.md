@@ -2,7 +2,7 @@
 
 XP: 30990
 Level: 7
-HP: 94 (Total) -18 -15 -33 +46 -17 -17 +27 -13 = -40
+HP: 94 (Total)
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
@@ -24,6 +24,8 @@ Proficiency:
     - Light and medium armour (mountain dwarf)
 
 Fighter things:
+    - Fighting Style:
+        - Defense (+1 to AC)
     - Attack twice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
 
@@ -38,6 +40,7 @@ Attack Bonus:
 Equipment:
     - Plate Mail armour (AC 18)
     - Mithril Armour (+4 chain - AC 20, no stealth disadvantage, no min strength) (23 total AC)
+        - Total AC 21
     - Battle axe (With an upgraded handle)
     - Simple Wooden Shield (+2)
     - Explorer's pack
@@ -47,16 +50,18 @@ Equipment:
     - 6 berries & leaves for growing and shrinking
 
 Spells: 
-    - Blade Ward         (Cantrip), (V, S)
-    - Fire Bolt          (Cantrip), (V, S)
-    - Magic Missile      (Lv 1), (V, S)
-    - Shield             (Lv 1), (V, S)
-    - Thunder Wave       (Lv 1), (V, S)
-    - Burning Hands      (Lv 1), (V, S)
+    - Blade Ward         (action),   (Cantrip), (V, S)
+    - Fire Bolt          (action),   (Cantrip), (V, S)
+    - Magic Missile      (action),   (Lv 1), (V, S)
+    - Shield             (reaction), (Lv 1), (V, S)
+    - Absorb Elements    (reaction), (Lv 1), (V, S)
+    - Burning Hands      (action),   (Lv 1), (V, S)
+    - Earthbind          (action),   (Lv 2), (V) (Concentration, up to 1 min, from XGE)
 
 Spell slots: 
     - Unlimited cantrips
-    - 3 first level (0 remaining)
+    - 4 first level
+    - 2 second level (1 left)
 
 Notes from 5e tools: 
 
@@ -83,7 +88,6 @@ Armor (shield)
 10 gp, 6 lb. 	AC +2
 
 A shield is made from wood or metal and is carried in one hand. Wielding a shield increases your Armor Class by 2. You can benefit from only one shield at a time.
-
 
 ### Chain Mail PHB p145
 Heavy armor
@@ -167,6 +171,27 @@ At Higher Levels.
 
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 Classes: Bard, Druid, Sorcerer, Wizard
+
+### Absorb Elements XGE p150
+Level 	School 	Casting Time 	Range
+1st 	Abjuration 	1 reaction, which you take when you take acid, cold, fire, lightning, or thunder damage 	Self
+Components 	Duration
+S 	1 round
+
+The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
+At Higher Levels.
+
+When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
+
+### Earthbind XGE p154
+Level 	School 	Casting Time 	Range
+2nd 	Transmutation 	1 action 	300 feet
+Components 	Duration
+V 	Concentration, up to 1 minute
+
+Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.
+Classes: Druid, Sorcerer, Warlock, Wizard
 
 ## #################################### ##
 ##        Dwarf (Mountain) PHB p20      ##
