@@ -1,14 +1,15 @@
 # Gideon Soliloquy
 
-XP: 30990
+XP: 34225
 Level: 7
-HP: 94 (Total)
+HP: 105 (Total)
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
-Str:    16 (14->16, mnt Dwarf) (+2 in orn)  +3 (+3 in orn)
+Str:    18 (16->18, mnt Dwarf) (+2 in orn)  +4 (+6 in orn)
     With fire giant strength potion: 25     +7
 Dex:    15                                  +2 (+3 in orn)
+    (dexterity throws have adv with haste)
 Cons:   19 (17->19 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
 Int:    14                                  +2
 Wis:    14                                  +2
@@ -29,7 +30,7 @@ Fighter things:
     - Attack twice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
 
-GP: 204
+GP: 104
 
 Attack Bonus: 
     - simple:            +3 (str) +3 (proficiency) +1 (sword/axe) = 7
@@ -37,10 +38,17 @@ Attack Bonus:
     - giant str potion:  +7 (str) +3 (proficiency) +1 (sword/axe) = 11
     - giant str vs evil: +7 (str) +3 (proficiency) +2 (sword)     = 12
 
+Damage Bonus: 
+    - simple:            +3 (str) +1 (sword/axe) = 4
+    - simple vs evil:    +3 (str) +2 (sword)     = 5
+    - giant str potion:  +7 (str) +1 (sword/axe) = 8
+    - giant str vs evil: +7 (str) +2 (sword)     = 9
+
+
 Equipment:
     - Plate Mail armour (AC 18)
     - Mithril Armour (+4 chain - AC 20, no stealth disadvantage, no min strength) (23 total AC)
-        - Total AC 21
+        - Total AC 24 (AC20 + 1 (defense) + 3 (dex))
     - Battle axe (With an upgraded handle)
     - Simple Wooden Shield (+2)
     - Explorer's pack
@@ -48,6 +56,7 @@ Equipment:
     - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
     - 6 berries & leaves for growing and shrinking
+    - 1x potion of fire giant strength 
 
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)
@@ -57,11 +66,12 @@ Spells:
     - Absorb Elements    (reaction), (Lv 1), (V, S)
     - Burning Hands      (action),   (Lv 1), (V, S)
     - Earthbind          (action),   (Lv 2), (V) (Concentration, up to 1 min, from XGE)
+    - Scorching Ray      (action),   (Lv 2), (V, S)
 
 Spell slots: 
     - Unlimited cantrips
     - 4 first level
-    - 2 second level (1 left)
+    - 2 second level (2 left)
 
 Notes from 5e tools: 
 
@@ -112,7 +122,6 @@ V, S 	Instantaneous
 You hurl a mote of fire at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 fire damage. A flammable object hit by this spell ignites if it isn't being worn or carried.
 
 This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
-Classes: Sorcerer, Wizard
 
 ### Blade Ward PHB p218
 Level 	School 	Casting Time 	Range
@@ -121,7 +130,6 @@ Components 	Duration
 V, S 	1 round
 
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
-Classes: Bard, Sorcerer, Warlock, Wizard
 
 ### Magic Missile PHB p257
 Level 	School 	Casting Time 	Range
@@ -133,7 +141,6 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 At Higher Levels.
 
 When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
-Classes: Sorcerer, Wizard
 
 ### Shield PHB p275
 Level 	School 	Casting Time 	Range
@@ -142,7 +149,6 @@ Components 	Duration
 V, S 	1 round
 
 An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.
-Classes: Sorcerer, Wizard
 
 ### Burning Hands PHB p220
 Level 	School 	Casting Time 	Range
@@ -153,10 +159,8 @@ V, S 	Instantaneous
 As you hold your hands with thumbs touching and fingers spread, a thin sheet of flames shoots forth from your outstretched fingertips. Each creature in a 15-foot cone must make a Dexterity saving throw. A creature takes 3d6 fire damage on a failed save, or half as much damage on a successful one.
 
 The fire ignites any flammable objects in the area that aren't being worn or carried.
-At Higher Levels.
 
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d6 for each slot level above 1st.
-Classes: Sorcerer, Wizard
 
 ### Thunderwave PHB p282
 Level 	School 	Casting Time 	Range
@@ -167,10 +171,8 @@ V, S 	Instantaneous
 A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed.
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
-At Higher Levels.
 
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
-Classes: Bard, Druid, Sorcerer, Wizard
 
 ### Absorb Elements XGE p150
 Level 	School 	Casting Time 	Range
@@ -179,10 +181,8 @@ Components 	Duration
 S 	1 round
 
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
-At Higher Levels.
 
 When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
-Classes: Artificer, Druid, Ranger, Sorcerer, Wizard
 
 ### Earthbind XGE p154
 Level 	School 	Casting Time 	Range
@@ -191,7 +191,18 @@ Components 	Duration
 V 	Concentration, up to 1 minute
 
 Choose one creature you can see within range. Yellow strips of magical energy loop around the creature. The target must succeed on a Strength saving throw, or its flying speed (if any) is reduced to 0 feet for the spell's duration. An airborne creature affected by this spell safely descends at 60 feet per round until it reaches the ground or the spell ends.
-Classes: Druid, Sorcerer, Warlock, Wizard
+
+### Scorching Ray PHB p273
+Level 	School 	Casting Time 	Range
+2nd 	Evocation 	1 action 	120 feet
+Components 	Duration
+V, S 	Instantaneous
+
+You create three rays of fire and hurl them at targets within range. You can hurl them at one target or several.
+
+Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
+
+When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
 ## #################################### ##
 ##        Dwarf (Mountain) PHB p20      ##

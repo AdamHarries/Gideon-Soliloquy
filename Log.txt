@@ -178,3 +178,23 @@ Money: 5 gp from hinge
 + 150 (Flying on a broomstick)
 + 150 (Using Earthbind for the first time)
 + 100 (finding winterhome)
+
+# The spy from the empire of the sun 
++ 200 (General travel + mapping)
++ 200 (magic missile at the spy) 
++ 200 (Q&A session with the spy)
++ 50 (Seeing the dwarves again)
++ 35 (Flying the broomstick in anger)
+
+# Post chasing the spies 
++ 200 (General planning r.e. the sequestery etc)
++ 150 (Meeting the aztec god quetzalcoatl)
++ 1000 (Taking magic meth and fighting a dragon)
+Item: 9 dragon scales 
+Item: 6 suits of armour worth of wing 
+Item: 4 teeth
+Item: 5 claws
+
+# Futzing about after the dragon 
++ 600 (For going to the winterhome)
++ 200 (Butchery of the dragon)
