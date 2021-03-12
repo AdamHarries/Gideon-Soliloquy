@@ -198,3 +198,7 @@ Item: 5 claws
 # Futzing about after the dragon 
 + 600 (For going to the winterhome)
 + 200 (Butchery of the dragon)
+
+# Demon battle 2 electric boogaloo 
++ 50 (Making fear saving throw first time)
++ 2500 (Fighting the demon/devil thing)

@@ -6,7 +6,7 @@ HP: 105 (Total)
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
-Str:    18 (16->18, mnt Dwarf) (+2 in orn)  +4 (+6 in orn)
+Str:    18 (16->18, mnt Dwarf) (+2 in orn)  +4 (+4 in orn)
     With fire giant strength potion: 25     +7
 Dex:    15                                  +2 (+3 in orn)
     (dexterity throws have adv with haste)
@@ -33,14 +33,14 @@ Fighter things:
 GP: 104
 
 Attack Bonus: 
-    - simple:            +3 (str) +3 (proficiency) +1 (sword/axe) = 7
-    - simple vs evil:    +3 (str) +3 (proficiency) +2 (sword)     = 8
-    - giant str potion:  +7 (str) +3 (proficiency) +1 (sword/axe) = 11
-    - giant str vs evil: +7 (str) +3 (proficiency) +2 (sword)     = 12
+    - simple:            +4 (str) +3 (proficiency) +1 (sword/axe) = 8
+    - simple vs evil:    +4 (str) +3 (proficiency) +2 (sword)     = 9
+    - giant str potion:  +7 (str) +3 (proficiency) +1 (sword/axe) = 12
+    - giant str vs evil: +7 (str) +3 (proficiency) +2 (sword)     = 13
 
 Damage Bonus: 
-    - simple:            +3 (str) +1 (sword/axe) = 4
-    - simple vs evil:    +3 (str) +2 (sword)     = 5
+    - simple:            +4 (str) +1 (sword/axe) = 5
+    - simple vs evil:    +4 (str) +2 (sword)     = 6
     - giant str potion:  +7 (str) +1 (sword/axe) = 8
     - giant str vs evil: +7 (str) +2 (sword)     = 9
 
