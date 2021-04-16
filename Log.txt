@@ -178,3 +178,10 @@ Money: 5 gp from hinge
 + 150 (Flying on a broomstick)
 + 150 (Using Earthbind for the first time)
 + 100 (finding winterhome)
+
+# At the Knot
+-1 leaf
++150 (For rust monster fight)
++400 (For conversations with Stella etc)
++100 (For doing stuff with the stone)
++30 (For seeing the giant eagles)
