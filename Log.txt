@@ -186,6 +186,7 @@ Money: 5 gp from hinge
 + 150 (Using Earthbind for the first time)
 + 100 (finding winterhome)
 
+<<<<<<< HEAD
 # The spy from the empire of the sun 
 + 200 (General travel + mapping)
 + 200 (magic missile at the spy) 
@@ -229,3 +230,30 @@ Item: 5 claws
 + 500 (For climbing the tree and finding the forest)
 + 700 (For fighting the Chimerae)
 + 200 (For questioning the history of the githish empire)
+=======
+# At the Knot
+-1 leaf
++150 (For rust monster fight)
++400 (For conversations with Stella etc)
++100 (For doing stuff with the stone)
++30 (For seeing the giant eagles)
+
+# Searching for the glass army in Seguro
++ 300 (General searching around the city)
++ 50 (For finding that I can't wield the car as a weapon)
++ 100 (For remembering the Gnomon)
++ 100 (For general Schlepping around)
++ 100 (For participating in the scrying of the fort, etc.)
+
+# Finding the glass army in Seguro 
++ 500 (For noticing that the entrance was water powered)
++ 50  (Magic missile against the golem)
++ 100 (For passing through the circle successfully)
++ 50  (For watching llewellen get beaten up)
++ 500 (For finding the glass army)
+
+# Getting out the glass army 
++ 200 (For weapon bonding with the sceptre)
++ 100 (For chasing bugs)
++ 500 (For retrieving the Glass Army)
+>>>>>>> d1ef10802f719759d84601a6d432cffded5297af
