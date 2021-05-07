@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 34225
+XP: 40310
 Level: 7
-HP: 105 (Total)
+HP: 105 (Total) - 3
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
 
@@ -55,7 +55,7 @@ Equipment:
     - Mason's tools
     - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
-    - 6 berries & leaves for growing and shrinking
+    - 5 berries & 6 leaves for growing and shrinking
     - 1x potion of fire giant strength 
 
 Spells: 
@@ -70,7 +70,7 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 4 first level
+    - 4 first level  (4 left)
     - 2 second level (2 left)
 
 Notes from 5e tools: 

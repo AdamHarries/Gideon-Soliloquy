@@ -1,3 +1,10 @@
+# The Gryffon's nest
++ 20 (Going to /running from the gryffon)
++ 175 (Spider slaying)
++ 10 (Scaring the creature)
++ 40 (Shooting back at the bowman)
++ 40 (Coming back alive!)
+
 # Bolsano's first adventure
 
 + 50 (sneaking up on dwarf hole)
@@ -201,4 +208,24 @@ Item: 5 claws
 
 # Demon battle 2 electric boogaloo 
 + 50 (Making fear saving throw first time)
-+ 2500 (Fighting the demon/devil thing)
++ 50 (Finding the contract)
++ 2500 (Fighting the demon/devil thing) 
+
+# Back to the sequestery, again!
++ 200 (Surviving the falling tree attack)
++ 100 (For exploring bolsano's)
++ 300 (For emptying the sequestery)
+
+# Experience opening up the tear drop
++ 800 (for helping in general)
+
+# The decanting of the dwarves
++ 30 (for seeing the dwarves extracted)
++ 150 (Fighting the lizard people)
++ 200 (First casting of scorching ray)
++ 20 (For seeing the advert for the capitalists)
+
+# Climbing Arucaria 
++ 500 (For climbing the tree and finding the forest)
++ 700 (For fighting the Chimerae)
++ 200 (For questioning the history of the githish empire)
