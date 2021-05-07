@@ -1,7 +1,7 @@
 # Gideon Soliloquy
 
-XP: 40310
-Level: 7
+XP: 43640
+Level: 8
 HP: 105 (Total) - 3
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +3
