@@ -71,7 +71,7 @@ Spells:
 Spell slots: 
     - Unlimited cantrips
     - 4 first level  (4 left)
-    - 2 second level (2 left)
+    - 2 second level (1 left)
 
 Notes from 5e tools: 
 

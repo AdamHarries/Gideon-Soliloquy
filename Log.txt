@@ -255,3 +255,8 @@ Item: -1 leaf
 + 200 (For weapon bonding with the sceptre)
 + 100 (For chasing bugs)
 + 500 (For retrieving the Glass Army)
+
+# Fleeing the Golems
++ 100 (For the scorching ray)
++ 200 (Extracting the Chem from the golem)
++ 200 (For meeting orn)
