@@ -260,3 +260,6 @@ Item: -1 leaf
 + 100 (For the scorching ray)
 + 200 (Extracting the Chem from the golem)
 + 200 (For meeting orn)
+
+# Watching llewellen turn to stone 
++ 750 (For the general game)
