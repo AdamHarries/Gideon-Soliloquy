@@ -1,6 +1,6 @@
 # Gideon Soliloquy
 
-XP: 43640
+XP: 44740 (next, 48000 (lvl 9))
 Level: 8
 HP: 105 (Total) - 3
 Hit recovery die: 5d10 (currently 4)
@@ -56,7 +56,9 @@ Equipment:
     - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
     - 5 berries & 6 leaves for growing and shrinking
+        - 
     - 1x potion of fire giant strength 
+    - Dragonskin cloakj
 
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)

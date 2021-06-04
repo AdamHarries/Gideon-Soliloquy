@@ -260,3 +260,8 @@ Item: -1 leaf
 + 100 (For the scorching ray)
 + 200 (Extracting the Chem from the golem)
 + 200 (For meeting orn)
+
+# Back at the village
++ 100 (Discussing the Villagers)
++ 100 (Dropping a sword on a Golem)
++ 400 (For realising the importance of the Chem in the Golem)
