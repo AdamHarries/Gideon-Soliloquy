@@ -265,3 +265,6 @@ Item: -1 leaf
 + 100 (Discussing the Villagers)
 + 100 (Dropping a sword on a Golem)
 + 400 (For realising the importance of the Chem in the Golem)
+
+# Watching llewellen turn to stone 
++ 750 (For the general game)
