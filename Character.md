@@ -1,10 +1,10 @@
 # Gideon Soliloquy
 
-XP: 44740 (next, 48000 (lvl 9))
-Level: 8
-HP: 105 (Total) - 3
+XP: 52790 (next, 64,000 (lvl 10))
+Level: 9
+HP: 118 (Total)
 Hit recovery die: 5d10 (currently 4)
-Proficiency bonus: +3
+Proficiency bonus: +4
 
 Str:    18 (16->18, mnt Dwarf) (+2 in orn)  +4 (+4 in orn)
     With fire giant strength potion: 25     +7
@@ -29,6 +29,8 @@ Fighter things:
         - Defense (+1 to AC)
     - Attack twice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
+    - Second Wind
+    - Indomitable
 
 GP: 104
 
@@ -56,9 +58,8 @@ Equipment:
     - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
     - 5 berries & 6 leaves for growing and shrinking
-        - 
     - 1x potion of fire giant strength 
-    - Dragonskin cloakj
+    - Dragonskin cloak (resistance to lightning attacks)
 
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)
@@ -72,8 +73,8 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 4 first level  (4 left)
-    - 2 second level (1 left)
+    - 4 first level  (1 left)
+    - 2 second level (0 left)
 
 Notes from 5e tools: 
 

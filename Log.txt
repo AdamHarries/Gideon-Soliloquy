@@ -268,3 +268,16 @@ Item: -1 leaf
 
 # Watching llewellen turn to stone 
 + 750 (For the general game)
+
+# Fighting more plastic people, scoping out the ents and releasing sequester'd people
++ 700 (total, from fighting, etc)
+
+# The big fight against the Hags!
++ 3000 (For charging in and getting stuck in)
++ 500 (For stopping the hags from getting away!)
++ 1000 (For interrogating the Hags)
+
+# The betrayal of Llewellyn 
++ 500 (For saving hinge from enslavement by setting fire to him)
++ 700 (Trying to prevent Llewellyn from stealing the treasure)
++ 900 (Briefly, fighting the creature in blackbird lake)
