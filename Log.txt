@@ -281,3 +281,10 @@ Item: -1 leaf
 + 500 (For saving hinge from enslavement by setting fire to him)
 + 700 (Trying to prevent Llewellyn from stealing the treasure)
 + 900 (Briefly, fighting the creature in blackbird lake)
+
+# The Fight Against the Aboleth
++ 3000 (For defeating the Aboleth)
++ 600 (For stabbing the dragon a few times)
++ 900 (For fighting the aboleth)
++ 400 (For using absorb elements)
++ 200 (For a first use of indomitable)

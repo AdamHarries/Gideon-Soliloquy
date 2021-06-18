@@ -28,24 +28,23 @@ Fighter things:
     - Fighting Style:
         - Defense (+1 to AC)
     - Attack twice (when using "attack")
-    - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
+    - Action surge (Once per short rest, take an extra action on top of regular/bonus action) (Used)
     - Second Wind
-    - Indomitable
+    - Indomitable (Used)
 
 GP: 104
 
 Attack Bonus: 
-    - simple:            +4 (str) +3 (proficiency) +1 (sword/axe) = 8
-    - simple vs evil:    +4 (str) +3 (proficiency) +2 (sword)     = 9
-    - giant str potion:  +7 (str) +3 (proficiency) +1 (sword/axe) = 12
-    - giant str vs evil: +7 (str) +3 (proficiency) +2 (sword)     = 13
+    - simple:            +4 (str) +4 (proficiency) +1 (sword/axe) = 9
+    - simple vs evil:    +4 (str) +4 (proficiency) +2 (sword)     = 10
+    - giant str potion:  +7 (str) +4 (proficiency) +1 (sword/axe) = 12
+    - giant str vs evil: +7 (str) +4 (proficiency) +2 (sword)     = 13
 
 Damage Bonus: 
     - simple:            +4 (str) +1 (sword/axe) = 5
     - simple vs evil:    +4 (str) +2 (sword)     = 6
     - giant str potion:  +7 (str) +1 (sword/axe) = 8
     - giant str vs evil: +7 (str) +2 (sword)     = 9
-
 
 Equipment:
     - Plate Mail armour (AC 18)
@@ -57,8 +56,8 @@ Equipment:
     - Mason's tools
     - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
-    - 5 berries & 6 leaves for growing and shrinking
-    - 1x potion of fire giant strength 
+    - 3 berries & 5 leaves for growing and shrinking
+    - 1x potion of fire giant strength (Given to bolsano to try and replicate)
     - Dragonskin cloak (resistance to lightning attacks)
 
 Spells: 
@@ -73,7 +72,7 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 4 first level  (1 left)
+    - 4 first level  (3 left)
     - 2 second level (0 left)
 
 Notes from 5e tools: 
