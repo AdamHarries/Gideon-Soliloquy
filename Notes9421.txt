@@ -1,0 +1,5 @@
+-1 leaf
++150 (For rust monster fight)
++400 (For conversations with Stella etc)
++100 (For doing stuff with the stone)
++30 (For seeing the giant eagles)
