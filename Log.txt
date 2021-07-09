@@ -288,3 +288,10 @@ Item: -1 leaf
 + 900 (For fighting the aboleth)
 + 400 (For using absorb elements)
 + 200 (For a first use of indomitable)
+
+# Around Bar-Alda after the fight
++ 130 (For various patroling around Bar-Alda)
+
+# Fighting the wax creatures 
++ 3000 (For various fighting, and defeating the creatures.)
+

@@ -1,6 +1,6 @@
 # Gideon Soliloquy
 
-XP: 52790 (next, 64,000 (lvl 10))
+XP: 61020 (next, 64,000 (lvl 10))
 Level: 9
 HP: 118 (Total)
 Hit recovery die: 5d10 (currently 4)
