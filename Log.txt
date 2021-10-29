@@ -295,3 +295,78 @@ Item: -1 leaf
 # Fighting the wax creatures 
 + 3000 (For various fighting, and defeating the creatures.)
 
+# What to do with the key?
++ 50 (for discussing what to do with the key)
++ 50 (For playing with the crest cat)
++ 100 (For befriending the cat)
++ 10 (For watching the cat eat a fairy)
++ 30 (For buying fish in the pub)
+
+# Journey to The Centre of Orn 
++ 3000 (For reaching the centre of orn (and getting back again))
++ 100  (For looking after the tiger)
+
+# At the pub
++ 400 (For various investigations around the pub)
++ 100 (For meeting the new ents)
++ 150 (For convincing chaffinch and orcino to come with us)
++ 300 (For being in the weird mind meld)
++ 10  (For the dried fish + the sword)
+
+# Exploring Orn with Joe & Sumira 
++ 500 (For general experience)
++ 100 (For summoning the anti-fear sceptre)
+
+# Missed games 
++ 7200 (For general experience)
+
+# Fighting the misty vampire!
++ 1000 (For fighting the vampire)
++ 450 (For getting up the ironwood and scrying)
+
+# Freeing the people from the larder
+
++ 1000 (For fighting the nasty monk)
++ 100 (For rescuing the pic)
++ 120 (For one shot killing an armoured guard)
++ 1000 (For rescuing the sentient creatures)
+
+# Chatting with people post escape 
+
++ 400 (For general activities)
+
+# Searching for the cat
+
++ 400 (For sheer bloodymindedness in searching for the cat)
++ 250 (For the mage hand suggestion)
++ 200 (Research in the village)
++ 150 (Signal flare while hinge scryed)
+
+# For destroying the creature-thing
+
++ 2500 (Base, for destruction!)
++ 50 (Giant boar)
+
+# In the chappel
+
++ 250 (For saving longshanks and llewellen)
++ 100 (For being party to the scrying of ixixion)
++ 500 (For seeing the phoenix)
++ 250 (Huts, poems and feoborg)
++ 50 (For finding out about callahan)
+
+# In the forest, wandering around 
+
++ 150 (For using the blue saphire gem)
++ 700 (For defeating the dinosaur)
++ 30 (For jumping off the broomstick onto the dinosaur's head)
++ 200 (For recieving bardic inspiration)
++ 50 (For letting the knight go away)
++ 10 (For trying, and failing, to convince the cat to stay)
++ 150 (For exploring the hut)
+
+# In the forest, chasing the gith & the fountian of youth 
++ 800 (total) 
+
+# After the forest, going to arucaria
++ 560 (total)

@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 61020 (next, 64,000 (lvl 10))
-Level: 9
-HP: 118 (Total)
+XP: 83180 (next, 85,000 (lvl 11))
+Level: 10
+HP: 130 (Total) - 33 + 14
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +4
 
@@ -28,11 +28,11 @@ Fighter things:
     - Fighting Style:
         - Defense (+1 to AC)
     - Attack twice (when using "attack")
-    - Action surge (Once per short rest, take an extra action on top of regular/bonus action) (Used)
-    - Second Wind
-    - Indomitable (Used)
+    - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
+    - Second Wind (Use a bonus action to regain hitpoints)
+    - Indomitable (Reroll a failed saving throw)
 
-GP: 104
+GP: 84
 
 Attack Bonus: 
     - simple:            +4 (str) +4 (proficiency) +1 (sword/axe) = 9
@@ -56,9 +56,10 @@ Equipment:
     - Mason's tools
     - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
-    - 3 berries & 5 leaves for growing and shrinking
+    - 2 berries & 2 leaves for growing and shrinking
     - 1x potion of fire giant strength (Given to bolsano to try and replicate)
     - Dragonskin cloak (resistance to lightning attacks)
+    - Dried cod fish for the crestcat (Less than half left)
 
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)
@@ -72,8 +73,8 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 4 first level  (3 left)
-    - 2 second level (0 left)
+    - 4 first level  (4 left)
+    - 3 second level (3 left)
 
 Notes from 5e tools: 
 
@@ -132,6 +133,16 @@ Components 	Duration
 V, S 	1 round
 
 You extend your hand and trace a sigil of warding in the air. Until the end of your next turn, you have resistance against bludgeoning, piercing, and slashing damage dealt by weapon attacks.
+
+### Shocking Grasp PHB p275
+Level   School  Casting Time   Range
+Cantrip Evocation 1 action      Touch
+Components  Duration
+V, S    Instantaneous
+
+Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have advantage on the attack roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can't take reactions until the start of its next turn.
+
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
 ### Magic Missile PHB p257
 Level 	School 	Casting Time 	Range
