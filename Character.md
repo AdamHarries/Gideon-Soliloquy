@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 83180 (next, 85,000 (lvl 11))
-Level: 10
-HP: 130 (Total) - 33 + 14
+XP: 89770 (next level, 100000xp)
+Level: 11
+HP: 145
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +4
 
@@ -73,7 +73,7 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 4 first level  (4 left)
+    - 4 first level  (2 left)
     - 3 second level (3 left)
 
 Notes from 5e tools: 
@@ -177,7 +177,7 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ### Thunderwave PHB p282
 Level 	School 	Casting Time 	Range
-1st 	Evocation 	1 action 	Self (15-foot cube)
+1st 	Evocation 	1 action 	Self (15-foot cube)jkj
 Components 	Duration
 V, S 	Instantaneous
 

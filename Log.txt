@@ -370,3 +370,24 @@ Item: -1 leaf
 
 # After the forest, going to arucaria
 + 560 (total)
+
+# Initial exploration to the fortress 
++ 430 (General)
+
+# In the githic fortress 
++ 1500 (For defeating the roper)
++ 400 (For chasing the gith and exploring to the screen and beyond)
++ 100 (For burning the gelatinous cube)
++ 400 (For experiencing being turned to stone)
++ 400 (For fighting the medusa)
+
+# Fighting on the ornithopter
++ 100 (Discussing the attack/strategy)
++ 150 (Attacking and trying to cut the fuse)
++ 500 (For the battle, baseline)
++ 350 (For charging through the gith!)
++ 300 (For witnessing magical explosions!)
++ 150 (For the next one!)
++ 100 (For keeping cool during the crash)
++ 150 (For staying cool while plummeting)
++ 200 (Absorb elements from explosions)
