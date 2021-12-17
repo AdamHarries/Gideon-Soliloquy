@@ -1,6 +1,6 @@
 # Gideon Soliloquy
 
-XP: 89770 (next level, 100000xp)
+XP: 92570 (next level, 100000xp)
 Level: 11
 HP: 145
 Hit recovery die: 5d10 (currently 4)
@@ -27,7 +27,7 @@ Proficiency:
 Fighter things:
     - Fighting Style:
         - Defense (+1 to AC)
-    - Attack twice (when using "attack")
+    - Attack thrice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
     - Second Wind (Use a bonus action to regain hitpoints)
     - Indomitable (Reroll a failed saving throw)
@@ -60,6 +60,7 @@ Equipment:
     - 1x potion of fire giant strength (Given to bolsano to try and replicate)
     - Dragonskin cloak (resistance to lightning attacks)
     - Dried cod fish for the crestcat (Less than half left)
+    - 1x potion of flame breath (3 fire breaths per hour)
 
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)
@@ -73,8 +74,8 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 4 first level  (2 left)
-    - 3 second level (3 left)
+    - 4 first level  (4 left)
+    - 3 second level (1 left)
 
 Notes from 5e tools: 
 
@@ -196,6 +197,14 @@ S 	1 round
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
 
 When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+
+### Feather Fall PHB p239
+Level 	School 	Casting Time 	Range
+1st 	Transmutation 	1 reaction, which you take when you or a creature within 60 feet of you falls 	60 feet
+Components 	Duration
+V, M (a small feather or a piece of down) 	1 minute
+
+Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
 ### Earthbind XGE p154
 Level 	School 	Casting Time 	Range

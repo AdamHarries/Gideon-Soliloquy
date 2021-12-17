@@ -391,3 +391,26 @@ Item: -1 leaf
 + 100 (For keeping cool during the crash)
 + 150 (For staying cool while plummeting)
 + 200 (Absorb elements from explosions)
+
+# Final exploration of the gith stronghold
++ 500 (For general exploration)
++ 100 (For quaffing the experimental potion)
++ 250 (For pushing the plot forward!)
++ 100 (Misheard reason?)
+
+# Spells etc around 
+
++ 950 (For general happenings)
+
+# In Bar-aldur 
+
++ 150 (for planning rests, etc) 
++ 700 (For the damage to the fire djin)
++ 50 (negotiating with bolsano)
+
+# Sitting outside Seguro
++ 20 (For seeing two black dragons)
++ 100 (General looking around, spying on Lo Chow, etc)
++ 100 (Sneaking after lo chow)
++ 50 (For interviewing/interrogating/chatting with him)
++ 50 (Knocking a hole in the wall of the museum garden)
