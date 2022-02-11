@@ -394,6 +394,7 @@ Item: -1 leaf
 
 # Final exploration of the gith stronghold
 + 500 (For general exploration)
+Item: Bottle of experimental potion
 + 100 (For quaffing the experimental potion)
 + 250 (For pushing the plot forward!)
 + 100 (Misheard reason?)
@@ -414,3 +415,36 @@ Item: -1 leaf
 + 100 (Sneaking after lo chow)
 + 50 (For interviewing/interrogating/chatting with him)
 + 50 (Knocking a hole in the wall of the museum garden)
+
+# Fighting at the githish museum
++ 1100 (For regaining control of the museum)
+
+# Fighting the dragon riders, and "liberating" the dragon
++ 150 (Planning what to do before the opening)
+Item: Bottle of potion
++ 500 (For being hit by a dragon, and failing to earthbind it)
+
+# Chilling at the museum
++ 150 (For fighting Llewellyn)
+
+# More museum chill time 
++ 200 (General hanging around)
++ 100 (Leaving the bird alone)
++ 400 (Fighting the boars)
++ 100 (For discovering wombats)
++ 150 (Discussions of the time machine)
+
+# At the museum, the falled tree branch
++ 1000 (For helping to move the fallen tree branch)
++ 150 (For further efforts towards the tree)
+
+# Planning the assault on the boat
++ 100 (For hearing about the divination)
++ 150 (For being involved with the planning)
++ 50 (For remembering about the potion that needed identification)
+
+# Starting the assault!
++ 50 (Everyone, scrying the boat)
++ 15 (Learning what happens when Dimension Door goes wrong)
++ 300 (For experiencing the potion of storm giant strength)
++ 3000 (For winning the battle!)

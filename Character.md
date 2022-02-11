@@ -1,14 +1,15 @@
 # Gideon Soliloquy
 
-XP: 92570 (next level, 100000xp)
-Level: 11
-HP: 145
+XP: 95740 (next level, 100555xp)
+Level: 12
+HP: 159 - 80
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +4
 
 Str:    18 (16->18, mnt Dwarf) (+2 in orn)  +4 (+4 in orn)
     With fire giant strength potion: 25     +7
-Dex:    15                                  +2 (+3 in orn)
+    With fire giant strength potion: 29     +9
+Dex:    15                    (+1 in orn)   +2 (+3 in orn)
     (dexterity throws have adv with haste)
 Cons:   19 (17->19 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
 Int:    14                                  +2
@@ -32,6 +33,10 @@ Fighter things:
     - Second Wind (Use a bonus action to regain hitpoints)
     - Indomitable (Reroll a failed saving throw)
 
+Feats: 
+    - Charger: (When dashing, use a bonus action to make one melee weapon attack, or shove a creature)
+        -> If moving at least 10 feet, gain +5 bonus to attach damage, or push the target up to 10 feet away
+
 GP: 84
 
 Attack Bonus: 
@@ -39,12 +44,16 @@ Attack Bonus:
     - simple vs evil:    +4 (str) +4 (proficiency) +2 (sword)     = 10
     - giant str potion:  +7 (str) +4 (proficiency) +1 (sword/axe) = 12
     - giant str vs evil: +7 (str) +4 (proficiency) +2 (sword)     = 13
+    - storm giant str potion:  +9 (str) +4 (proficiency) +1 (sword/axe) = 14
+    - storm giant str vs evil: +9 (str) +4 (proficiency) +2 (sword)     = 15
 
 Damage Bonus: 
     - simple:            +4 (str) +1 (sword/axe) = 5
     - simple vs evil:    +4 (str) +2 (sword)     = 6
     - giant str potion:  +7 (str) +1 (sword/axe) = 8
     - giant str vs evil: +7 (str) +2 (sword)     = 9
+    - storm giant str potion:  +9 (str) +1 (sword/axe) = 9
+    - storm giant str vs evil: +9 (str) +2 (sword)     = 11
 
 Equipment:
     - Plate Mail armour (AC 18)
@@ -56,11 +65,12 @@ Equipment:
     - Mason's tools
     - Dwarvish Children's book
     - Magic sword (+1, +2 to hit + to damage vs evil creatures)
-    - 2 berries & 2 leaves for growing and shrinking
+    - 5 berries & 5 leaves for growing and shrinking
     - 1x potion of fire giant strength (Given to bolsano to try and replicate)
     - Dragonskin cloak (resistance to lightning attacks)
     - Dried cod fish for the crestcat (Less than half left)
     - 1x potion of flame breath (3 fire breaths per hour)
+    - 1x potion (1/2 doses left) of storm giant strength (with a risk of exhaustion at the end!)
 
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)
@@ -75,7 +85,7 @@ Spells:
 Spell slots: 
     - Unlimited cantrips
     - 4 first level  (4 left)
-    - 3 second level (1 left)
+    - 3 second level (3 left)
 
 Notes from 5e tools: 
 
@@ -293,7 +303,7 @@ Intelligence is your spellcasting ability for your wizard spells, since you lear
 
 Spell save DC = 8 + your proficiency bonus + your Intelligence modifier 
 
-Spell attack modifier = your proficiency bonus + your Intelligence modifier 
+Spell attack modifier = your proficiency bonus + your Intelligence  modifier 
 
 ### Weapon Bond 
 At 3rd level, you learn a ritual that creates a magical bond between yourself and one weapon. You perform the ritual over the course of 1 hour, which can be done during a short rest. The weapon must be within your reach throughout the ritual, at the conclusion of which you touch the weapon and forge the bond. 
