@@ -448,3 +448,13 @@ Item: Bottle of potion
 + 15 (Learning what happens when Dimension Door goes wrong)
 + 300 (For experiencing the potion of storm giant strength)
 + 3000 (For winning the battle!)
+
+# Preparing for the opening 
++ 100 (For consuming the hero's feast)
++ 200 (For general planning etc)
++ 50 (For watching llewellen battle)
+
+# The opening of the obelisk
++ 100 (For hitting a scrying point)
++ 400 (Watching the opening)
++ 700 (For trying to figure out what's going on!)

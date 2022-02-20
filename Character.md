@@ -2,7 +2,7 @@
 
 XP: 95740 (next level, 100555xp)
 Level: 12
-HP: 159 - 80
+HP: 159 (+13 temporary)
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +4
 
