@@ -458,3 +458,15 @@ Item: Bottle of potion
 + 100 (For hitting a scrying point)
 + 400 (Watching the opening)
 + 700 (For trying to figure out what's going on!)
+
+# Discovering the Gith stronghold 
++ 400 (For discovering the Gith stronghold)
++ 2 (Frustration experience points for having got ready for a fight and not getting to have the fight)
+
+# The assault on the secret gith base 
++ 500 (For successfully recovering the teardrops)
++ 250 (For the pebble ideas)
++ 100 (For finding the 5 army groups of the gith)
++ 200 (For finding out how the ramp worked)
++ 100 (For the false memory that we knew how to use the controls)
++ 7 (For saying Conch in chat)

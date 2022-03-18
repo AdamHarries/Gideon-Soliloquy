@@ -2,19 +2,20 @@
 
 XP: 95740 (next level, 100555xp)
 Level: 12
-HP: 159 (+13 temporary)
+HP: 159 (-7 fire) (-12 permanent, while in dimension) -10 (fire) -2 (steam) -17 (fire) -5 (fire) -5 (steam) -22 (fire) +17 (Second wind) -3 (fire) -3 (fire)
+   - current HP: 104
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +4
 
-Str:    18 (16->18, mnt Dwarf) (+2 in orn)  +4 (+4 in orn)
-    With fire giant strength potion: 25     +7
-    With fire giant strength potion: 29     +9
-Dex:    15                    (+1 in orn)   +2 (+3 in orn)
+Str:    18 (16->18, mnt Dwarf) (+2 in orn)                  +4 (+4 in orn)
+    With fire giant strength potion: 25                     +7
+    With fire giant strength potion: 29                     +9
+Dex:    15                    (+1 in orn)  (-1 in fire dim) +2 (+3 in orn)
     (dexterity throws have adv with haste)
-Cons:   19 (17->19 mnt Dwarf) (+2 in orn)   +4 (+5 in orn)
-Int:    14                                  +2
-Wis:    14                                  +2
-Char:   10                                  +1
+Cons:   19 (17->19 mnt Dwarf) (+2 in orn)  (-2 in fire dim) +4 (+5 in orn) 
+Int:    14                                 (-1 in fire dim) +2 
+Wis:    14                                                  +2
+Char:   10                                                  +1
 
 Skills: 
     - Athletics (Str)
@@ -84,8 +85,8 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 4 first level  (4 left)
-    - 3 second level (3 left)
+    - 4 first level  (1 left)
+    - 3 second level (2 left)
 
 Notes from 5e tools: 
 
