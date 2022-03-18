@@ -470,3 +470,7 @@ Item: Bottle of potion
 + 200 (For finding out how the ramp worked)
 + 100 (For the false memory that we knew how to use the controls)
 + 7 (For saying Conch in chat)
+
+# In the plane of fire
++ 3000 (For fighting the fire creatures!)
++ 400 (For taking the brunt of the damage in the fight!)

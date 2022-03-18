@@ -2,8 +2,8 @@
 
 XP: 95740 (next level, 100555xp)
 Level: 12
-HP: 159 (-7 fire) (-12 permanent, while in dimension) -10 (fire) -2 (steam) -17 (fire) -5 (fire) -5 (steam) -22 (fire) +17 (Second wind) -3 (fire) -3 (fire)
-   - current HP: 104
+HP: 159 (-7 fire) (-12 permanent, while in dimension) -10 (fire) -2 (steam) -17 (fire) -5 (fire) -5 (steam) -22 (fire) +17 (second wind) -3 (fire) -3 (fire) + 14 (healing touch) + 22 (goodberries)
+- current HP: 126
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +4
 
@@ -76,10 +76,13 @@ Equipment:
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)
     - Fire Bolt          (action),   (Cantrip), (V, S)
+    - Shocking grasp     (action),   (Cantrip), (V, S)
     - Magic Missile      (action),   (Lv 1), (V, S)
     - Shield             (reaction), (Lv 1), (V, S)
-    - Absorb Elements    (reaction), (Lv 1), (V, S)
     - Burning Hands      (action),   (Lv 1), (V, S)
+    - Thunderwave        (action),   (Lv 1), (V, S)
+    - Absorb Elements    (reaction), (Lv 1), (V, S)
+    - Feather Fall       (reaction), (Lv 1), (V, M - A small feather or piece of down)
     - Earthbind          (action),   (Lv 2), (V) (Concentration, up to 1 min, from XGE)
     - Scorching Ray      (action),   (Lv 2), (V, S)
 
