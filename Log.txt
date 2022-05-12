@@ -400,7 +400,6 @@ Item: Bottle of experimental potion
 + 100 (Misheard reason?)
 
 # Spells etc around 
-
 + 950 (For general happenings)
 
 # In Bar-aldur 
@@ -474,3 +473,42 @@ Item: Bottle of potion
 # In the plane of fire
 + 3000 (For fighting the fire creatures!)
 + 400 (For taking the brunt of the damage in the fight!)
+
+# Fighting in the boat
++ 3000 (For surviving against fighting the captain)
++ 200 (For trying to detach the box)
++ 200 (For using the dragon breath in combat)
++ 300 (For surviving)
++ 500 (In general)
+
+# Boat fight pt 2
++ 2000 (For the battle!)
++ 500 (For being sequestered)
++ 2 (For getting below quarter health for the first time)
+
+# Post-boat fight 
++ 30 (For hearing about the centre of orn)
++ 50 (For noting that the potion of revivify was for whoever was coming out of the citadel)
++ 550 (For the experiments around bonded weapons)
+
+# Avoiding gith fighting 
++ 30 (Sneaking up on the gith camp)
++ 200 (Attempting peace)
++ 400 (Discovering that the Gith are trying to leave Orn)
+
+# Hanging around in Seguro
++ 300 (For discussions of time travel)
++ 200 (For talking to Lo chao)
++ 200 (For getting information from talking to lo chao)
+
++ 80 (For grappling the basilisk)
++ 20 (For seeing a young basilisk)
++ 20 (For recognising the araocoaka)
++ 100 (For deciding to negotiate with the dragons)
++ 100 (For realising that the dragons are in charge of the snake people)
+
+# At the Gnome Domes, fighting the undead knights.
++ 3000 (For fighting the undead knights)
++ 400 (For grappling the knight)
++ 180 (For a shocking grasp on the knight)
++ 1000 (For seeing the multiverse)

@@ -1,9 +1,8 @@
 # Gideon Soliloquy
 
-XP: 95740 (next level, 100555xp)
+XP: 114396 (next level, 120000xp)
 Level: 12
-HP: 159 (-7 fire) (-12 permanent, while in dimension) -10 (fire) -2 (steam) -17 (fire) -5 (fire) -5 (steam) -22 (fire) +17 (second wind) -3 (fire) -3 (fire) + 14 (healing touch) + 22 (goodberries)
-- current HP: 126
+HP: 159
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +4
 
@@ -58,20 +57,20 @@ Damage Bonus:
 
 Equipment:
     - Plate Mail armour (AC 18)
-    - Mithril Armour (+4 chain - AC 20, no stealth disadvantage, no min strength) (23 total AC)
+    - Mithril Armour (+4 chain - AC 20, no stealth disadvantage, no min strength) (24 total AC)
         - Total AC 24 (AC20 + 1 (defense) + 3 (dex))
     - Battle axe (With an upgraded handle)
     - Simple Wooden Shield (+2)
     - Explorer's pack
     - Mason's tools
     - Dwarvish Children's book
-    - Magic sword (+1, +2 to hit + to damage vs evil creatures)
     - 5 berries & 5 leaves for growing and shrinking
     - 1x potion of fire giant strength (Given to bolsano to try and replicate)
     - Dragonskin cloak (resistance to lightning attacks)
     - Dried cod fish for the crestcat (Less than half left)
     - 1x potion of flame breath (3 fire breaths per hour)
-    - 1x potion (1/2 doses left) of storm giant strength (with a risk of exhaustion at the end!)
+    - 1x potion (0 doses left) of storm giant strength (with a risk of exhaustion at the end!)
+    - +2 Magic longsword (from "evil party" of gith)
 
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)
@@ -88,8 +87,8 @@ Spells:
 
 Spell slots: 
     - Unlimited cantrips
-    - 4 first level  (1 left)
-    - 3 second level (2 left)
+    - 4 first level  (0 left)
+    - 3 second level (0 left)
 
 Notes from 5e tools: 
 
@@ -200,7 +199,7 @@ A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube 
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
 
-When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.tt
 
 ### Absorb Elements XGE p150
 Level 	School 	Casting Time 	Range
