@@ -512,3 +512,8 @@ Item: Bottle of potion
 + 400 (For grappling the knight)
 + 180 (For a shocking grasp on the knight)
 + 1000 (For seeing the multiverse)
+
+# Going over to chaffinch & orcino 
++ 450 (General discovering) 
++ 150 (Earthbind)
++ 1 (For being sad about not having the experience point increase)

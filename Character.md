@@ -1,10 +1,10 @@
 # Gideon Soliloquy
 
-XP: 114396 (next level, 120000xp)
-Level: 12
-HP: 159
+XP: 120626 (next level, 120000xp)
+Level: 15
+HP: 173
 Hit recovery die: 5d10 (currently 4)
-Proficiency bonus: +4
+Proficiency bonus: +5
 
 Str:    18 (16->18, mnt Dwarf) (+2 in orn)                  +4 (+4 in orn)
     With fire giant strength potion: 25                     +7
@@ -27,7 +27,7 @@ Proficiency:
 
 Fighter things:
     - Fighting Style:
-        - Defense (+1 to AC)
+        - Great Weapon Fighting (Rolls of 1 or 2 on damage die get rerolled when using a two handed or versatile weapon.)
     - Attack thrice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
     - Second Wind (Use a bonus action to regain hitpoints)
@@ -37,6 +37,10 @@ Feats:
     - Charger: (When dashing, use a bonus action to make one melee weapon attack, or shove a creature)
         -> If moving at least 10 feet, gain +5 bonus to attach damage, or push the target up to 10 feet away
 
+
+Magic things: 
+    - DC is 8 + spellcasting modifier (Int) + proficiency bonus
+    - Attack roll = spellcasting modifier (Int) + proficiency 
 GP: 84
 
 Attack Bonus: 
@@ -84,11 +88,15 @@ Spells:
     - Feather Fall       (reaction), (Lv 1), (V, M - A small feather or piece of down)
     - Earthbind          (action),   (Lv 2), (V) (Concentration, up to 1 min, from XGE)
     - Scorching Ray      (action),   (Lv 2), (V, S)
+    - Counterspell       (reaction), (Lv 3), (V)
 
-Spell slots: 
+Spell slots:
     - Unlimited cantrips
-    - 4 first level  (0 left)
-    - 3 second level (0 left)
+    - 4 first level  (4 left)
+    - 3 second level (3 left)
+    - 2 third level  (2 left)
+
+(9 spells known)
 
 Notes from 5e tools: 
 
