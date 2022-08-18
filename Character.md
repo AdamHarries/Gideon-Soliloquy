@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 120626 (next level, 120000xp)
-Level: 15
-HP: 173
+XP: 135027 (next level, 140,000xp)
+Level: 13
+HP: 173 - 8 (From the water slide)
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +5
 
@@ -31,7 +31,7 @@ Fighter things:
     - Attack thrice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
     - Second Wind (Use a bonus action to regain hitpoints)
-    - Indomitable (Reroll a failed saving throw)
+    - Indomitable (Reroll a failed saving throw) (used)
 
 Feats: 
     - Charger: (When dashing, use a bonus action to make one melee weapon attack, or shove a creature)
@@ -44,20 +44,14 @@ Magic things:
 GP: 84
 
 Attack Bonus: 
-    - simple:            +4 (str) +4 (proficiency) +1 (sword/axe) = 9
-    - simple vs evil:    +4 (str) +4 (proficiency) +2 (sword)     = 10
-    - giant str potion:  +7 (str) +4 (proficiency) +1 (sword/axe) = 12
-    - giant str vs evil: +7 (str) +4 (proficiency) +2 (sword)     = 13
-    - storm giant str potion:  +9 (str) +4 (proficiency) +1 (sword/axe) = 14
-    - storm giant str vs evil: +9 (str) +4 (proficiency) +2 (sword)     = 15
+    - sword:                  +4 (str) +5 (proficiency) +3 (sword) = 11
+    - giant str potion:       +7 (str) +5 (proficiency) +3 (sword) = 15
+    - storm giant str potion: +9 (str) +5 (proficiency) +3 (sword) = 17
 
 Damage Bonus: 
-    - simple:            +4 (str) +1 (sword/axe) = 5
-    - simple vs evil:    +4 (str) +2 (sword)     = 6
-    - giant str potion:  +7 (str) +1 (sword/axe) = 8
-    - giant str vs evil: +7 (str) +2 (sword)     = 9
-    - storm giant str potion:  +9 (str) +1 (sword/axe) = 9
-    - storm giant str vs evil: +9 (str) +2 (sword)     = 11
+    - simple:                  +4 (str) +3 (sword)     = 7
+    - giant str potion:        +7 (str) +3 (sword/axe) = 10
+    - storm giant str potion:  +9 (str) +3 (sword/axe) = 12
 
 Equipment:
     - Plate Mail armour (AC 18)
@@ -74,6 +68,7 @@ Equipment:
     - Dried cod fish for the crestcat (Less than half left)
     - 1x potion of flame breath (3 fire breaths per hour)
     - 1x potion (0 doses left) of storm giant strength (with a risk of exhaustion at the end!)
+    - 1x potion (2 doses) of "Hill giant strength" (but actually of invunerability)
     - +2 Magic longsword (from "evil party" of gith)
 
 Spells: 
@@ -92,7 +87,7 @@ Spells:
 
 Spell slots:
     - Unlimited cantrips
-    - 4 first level  (4 left)
+    - 4 first level  (3 left)
     - 3 second level (3 left)
     - 2 third level  (2 left)
 
@@ -199,7 +194,7 @@ When you cast this spell using a spell slot of 2nd level or higher, the damage i
 
 ### Thunderwave PHB p282
 Level 	School 	Casting Time 	Range
-1st 	Evocation 	1 action 	Self (15-foot cube)jkj
+1st 	Evocation 	1 action 	Self (15-foot cube)
 Components 	Duration
 V, S 	Instantaneous
 
@@ -207,7 +202,7 @@ A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube 
 
 In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell's effect, and the spell emits a thunderous boom audible out to 300 feet.
 
-When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.tt
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
 
 ### Absorb Elements XGE p150
 Level 	School 	Casting Time 	Range

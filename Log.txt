@@ -517,3 +517,43 @@ Item: Bottle of potion
 + 450 (General discovering) 
 + 150 (Earthbind)
 + 1 (For being sad about not having the experience point increase)
+
+# Negotiating with gith
++ 400 (For negotiating)
++ 100 (For witnessing a wyvern rider coming out of a tear drop)
+
+# Exchanging with the gith
++ 800 (For sharing a spell slot with hinge)
++ 500 (For successfully transacting with the gith)
++ 200 (For realising that the girls had already stolen the water of life)
+
+# Fighting the advance party from the army of light
++ 2300 (Paper disscussion, beholder discussion, hasted, fighting with warrior, teleportation, shield, counterspell, etc.)
+
+# Going through the forest
++ 500 (For getting to the house)
++ 400 (For meeting the willow)
++ 100 (For meeting the wood giant)
++ 450 (For the battle with the two headed giant)
+
+# Further travel through the forest 
++ 400 (For ascending the cliffs)
++ 1000 (For fighting the nipe)
++ 50 (For not casting create bonfire on the mushroom creature)
++ 100 (For finding the science fiction story that the nipe came from)
+
+# The heart of orn
++ 5000 (For reaching the heart of Orn)
+
+# The question in the heart 
++ 1500 (For asking a question to the heart)
+
+# Back in Bar-Alda
++ 600 (For being sneaking and chatting to people)
++ 250 (For the general planning of the attack)
+
+# On the way to the galleon
++ 100 (Seeing Aloysious' Ghost)
++ 100 (For waking him up and annoying someone with a hangover)
++ 100 (Noticing how skinny Aloysious is)
++ 100 (For remembering the great race vampires)
