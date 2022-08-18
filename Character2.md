@@ -3,10 +3,9 @@ Thelonious (monk)
 
 XP: 84,000
 Level: 10
-HP: 
-Hit recovery die: (8 + 1) + 5 + 7 + 5 + 5 + 5 + 5 + 5 + 5 + 7 + (10) = 68
+HP: 68
+Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: 
-
 
 Str: 11                                                            + 0
 Dex: 17 (17->19, goliath starter, modified by tasha's cauldron)    + 3
@@ -15,6 +14,45 @@ Int: 14                                                            + 2
 Wis: 14                                                            + 2
 Char: 8                                                            - 1
 
+Physical characteristics:
+    Speed: 30ft (walking)
+    Height: 7-8ft tall
+    Size: Medium
+
+Skills:
+    - Athletics (From goliath)
+    - Acrobatics (From monk)
+    - Stealth (From monk)
+
+Proficiency:
+    - Simple weapons, shortswords
+
+Equipment:
+    - Ornately engraved antique hunting horn
+    - Simple carving knife (counts as a dagger)
+    - A hand carved walking staff (counts as a quaterstaff)
+    - Explorer's pack
+    - 10 darts
+ 
+Monk things:
+    Unarmored defense: when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus
+    Ki uses:
+        Flurry of blows: After taking the attack action, spend 1 ki point to make two unarmed strikes (bonus action)
+        Patient defense: Spend 1 ki point to take the dodge action as a bonus action on your turn
+        Step of the wind: Spend 1 ki point to Disengage or Dash as a bonus action. Jump distance is doubled for the turn.
+    Martial arts:
+        - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
+        - Roll a die (d4) in place of normal damage for unarmed strike or monk weapon (updated with level)
+        - When using "attack", can make one unarmed strike as a bonus action.
+
+Ki points: 
+    Total: 0
+    Remaining: 0
+
+#################################
+Calculations (on creation): 
+
+Values for ability scores:
 6 + 5 + 4 + 6 = 17
 4 + 1 + 6 + 4 = 14
 1 + 2 + 6 + 5 = 13
@@ -22,24 +60,5 @@ Char: 8                                                            - 1
 3 + 2 + 6 + 2 = 11
 3 + 1 + 3 + 2 = 8
 
-
-
-Skills: 
-
-Proficiency: 
- 
-Monk things:
-
-Feats: 
-
-Magic things: 
-
-Attack Bonus: 
-
-Damage Bonus: 
-
-Equipment:
- 
-Spells: 
-
-Spell slots:
+HP: 
+(8 + 1) + 5 + 7 + 5 + 5 + 5 + 5 + 5 + 5 + 7 + (10)
