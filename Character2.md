@@ -1,12 +1,10 @@
 Thelonious (monk)
 
-
 XP: 84,000
-Level: 5/10
+Level: 6/10
 HP: 68
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +3
-Martial art die: 1d6
 
 Str: 11                                                            + 0
 Dex: 20 (17->19, goliath starter, modified by tasha's cauldron)    + 5
@@ -34,6 +32,11 @@ Equipment:
     - A hand carved walking staff (counts as a quaterstaff)
     - Explorer's pack
     - 10 darts
+
+Martial art die: 1d6
+Ki points: 
+    Total: 6
+    Remaining: 6
  
 Monk things:
     (See PHB for details on regaining ki)
@@ -48,7 +51,7 @@ Monk things:
         - Roll the martial arts die in place of normal damage for unarmed strike or monk weapon
         - When using "attack", can make one unarmed strike as a bonus action.
     Unarmored Movement:
-        - Speed increases by 10ft when not wearing armour or shield.
+        - Speed increases by 15ft when not wearing armour or shield.
     Deflect Missiles:
         - Use reaction to deflect or catch a missile when hit by a ranged weapon attack.
         - Damage reduced by 1d10 + dex modifier + monk level
@@ -60,6 +63,8 @@ Monk things:
     Stunning strike:
         - When hitting another creature with a melee weapon attack, spend one 1 ki point to attempt a stunning strike
         - Target must succeed on a constitution saving throw, or be stunned until the end of your next turn.
+    Ki-empowered strikes:
+        - Unarmed strikes count as magical for the purpose of overcoming resistance + immunity to non-magical attacks & damage
 
 Monastic tradition:
     "Way of Shadow"
@@ -70,11 +75,11 @@ Monastic tradition:
             - Pass without trace, 
             - Silence
         - Gain "minor illusion" cantrip.
+    Shadow step: 
+        - Step from one shadow into another.
+        - When in dim light or darkness, as a bonus action, teleport up to 60ft to an unoccupied space (that you can see) that is also in dim light or darkness.
+        - Have advantage on first melee attack made before the end of the turn.
 
-
-Ki points: 
-    Total: 5
-    Remaining: 5
 
 #################################
 Calculations (on creation): 
