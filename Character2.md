@@ -28,10 +28,10 @@ Proficiency:
 
 Equipment:
     - Ornately engraved antique hunting horn
-    - Simple carving knife (counts as a dagger)
-    - A hand carved walking staff (counts as a quaterstaff)
+    - Simple carving knife (counts as a dagger, 1d4 piercing, finesse, light, thrown 20/60)
+    - A hand carved walking staff (counts as a quaterstaff, 1d6 bludgeoning, versatile 1d8) 
     - Explorer's pack
-    - 10 darts
+    - 10 darts (1d4 piercing, finesse, thrown 20/60)
 
 Martial art die: 1d6
 Ki points: 
