@@ -1,7 +1,7 @@
 Thelonious (monk)
 
 XP: 84,000
-Level: 9/10
+Level: 10
 HP: 68
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +4
@@ -35,8 +35,8 @@ Equipment:
 
 Martial art die: 1d6
 Ki points: 
-    Total: 9
-    Remaining: 9
+    Total: 10
+    Remaining: 10
  
 Monk things:
     (See PHB for details on regaining ki)
@@ -51,7 +51,7 @@ Monk things:
         Patient defense: Spend 1 ki point to take the dodge action as a bonus action on your turn
         Step of the wind: Spend 1 ki point to Disengage or Dash as a bonus action. Jump distance is doubled for the turn.
     Unarmored Movement:
-        - Speed increases by 15ft when not wearing armour or shield.
+        - Speed increases by 20ft when not wearing armour or shield.
         - Move along vertical surfaces and across liquids without falling during the move
     Deflect Missiles:
         - Use reaction to deflect or catch a missile when hit by a ranged weapon attack.
@@ -72,6 +72,8 @@ Monk things:
         - Take half damage on fail, and no damage on success.
     Stillness of mind:
         - Use an action to end one effect on yourself that is causing you to be "charmed" or "frightened"
+    Purity of body:
+        - Immune to disease + poison
 
 Monastic tradition:
     "Way of Shadow"
