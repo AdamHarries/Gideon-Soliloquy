@@ -2,7 +2,7 @@ Thelonious (monk)
 
 
 XP: 84,000
-Level: 10
+Level: 2/10
 HP: 68
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: 
@@ -35,7 +35,9 @@ Equipment:
     - 10 darts
  
 Monk things:
+    (See PHB for details on regaining ki)
     Unarmored defense: when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus
+    Ki save DC = 8 + proficiency bonus + wisdom modifier
     Ki uses:
         Flurry of blows: After taking the attack action, spend 1 ki point to make two unarmed strikes (bonus action)
         Patient defense: Spend 1 ki point to take the dodge action as a bonus action on your turn
@@ -44,10 +46,12 @@ Monk things:
         - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
         - Roll a die (d4) in place of normal damage for unarmed strike or monk weapon (updated with level)
         - When using "attack", can make one unarmed strike as a bonus action.
+    Unarmored Movement:
+        - Speed increases by 10ft when not wearing armour or shield.
 
 Ki points: 
-    Total: 0
-    Remaining: 0
+    Total: 2
+    Remaining: 2
 
 #################################
 Calculations (on creation): 
