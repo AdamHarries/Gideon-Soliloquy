@@ -1,7 +1,7 @@
 Thelonious (monk)
 
 XP: 84,000
-Level: 7/10
+Level: 8/10
 HP: 68
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +3
@@ -35,21 +35,21 @@ Equipment:
 
 Martial art die: 1d6
 Ki points: 
-    Total: 7
-    Remaining: 7
+    Total: 8
+    Remaining: 8
  
 Monk things:
     (See PHB for details on regaining ki)
     Unarmored defense: when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus
+    Martial arts:
+        - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
+        - Roll the martial arts die in place of normal damage for unarmed strike or monk weapon
+        - When using "attack", can make one unarmed strike as a bonus action.
     Ki save DC = 8 + proficiency bonus + wisdom modifier
     Ki uses:
         Flurry of blows: After taking the attack action, spend 1 ki point to make two unarmed strikes (bonus action)
         Patient defense: Spend 1 ki point to take the dodge action as a bonus action on your turn
         Step of the wind: Spend 1 ki point to Disengage or Dash as a bonus action. Jump distance is doubled for the turn.
-    Martial arts:
-        - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
-        - Roll the martial arts die in place of normal damage for unarmed strike or monk weapon
-        - When using "attack", can make one unarmed strike as a bonus action.
     Unarmored Movement:
         - Speed increases by 15ft when not wearing armour or shield.
     Deflect Missiles:
@@ -85,6 +85,15 @@ Monastic tradition:
         - Step from one shadow into another.
         - When in dim light or darkness, as a bonus action, teleport up to 60ft to an unoccupied space (that you can see) that is also in dim light or darkness.
         - Have advantage on first melee attack made before the end of the turn.
+
+Feats:
+    Poisoner (From Tasha's Cauldron of Everything, p80)
+        - You can prepare and deliver deadly poisons, granting you the following benefits:
+        - When you make a damage roll that deals poison damage, it ignores resistance to poison damage.
+        - You can apply poison to a weapon or piece of ammunition as a bonus action, instead of an action.
+        - You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus. 
+        - Once applied to a weapon or piece of ammunition, the poison retains its potency for 1 minute or until you hit with the weapon or ammunition. 
+        - When a creature takes damage from the coated weapon or ammunition, that creature must succeed on a DC 14 Constitution saving throw or take 2d8 poison damage and become poisoned until the end of your next turn.
 
 
 #################################
