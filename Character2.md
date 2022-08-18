@@ -1,7 +1,7 @@
 Thelonious (monk)
 
 XP: 84,000
-Level: 6/10
+Level: 7/10
 HP: 68
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +3
@@ -35,8 +35,8 @@ Equipment:
 
 Martial art die: 1d6
 Ki points: 
-    Total: 6
-    Remaining: 6
+    Total: 7
+    Remaining: 7
  
 Monk things:
     (See PHB for details on regaining ki)
@@ -65,6 +65,12 @@ Monk things:
         - Target must succeed on a constitution saving throw, or be stunned until the end of your next turn.
     Ki-empowered strikes:
         - Unarmed strikes count as magical for the purpose of overcoming resistance + immunity to non-magical attacks & damage
+    Evasion:
+        - Dodge out of the way of certain area effects.
+        - When subjected to an effect that allows a dex roll to take half damage.
+        - Take half damage on fail, and no damage on success.
+    Stillness of mind:
+        - Use an action to end one effect on yourself that is causing you to be "charmed" or "frightened"
 
 Monastic tradition:
     "Way of Shadow"
