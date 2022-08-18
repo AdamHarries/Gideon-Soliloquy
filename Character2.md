@@ -2,7 +2,7 @@ Thelonious (monk)
 
 
 XP: 84,000
-Level: 2/10
+Level: 3/10
 HP: 68
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: 
@@ -48,10 +48,25 @@ Monk things:
         - When using "attack", can make one unarmed strike as a bonus action.
     Unarmored Movement:
         - Speed increases by 10ft when not wearing armour or shield.
+    Deflect Missiles:
+        - Use reaction to deflect or catch a missile when hit by a ranged weapon attack.
+        - Damage reduced by 1d10 + dex modifier + monk level
+        - If damage reduced to 0, it can be caught. If caught, can spend 1 ki to throw it back (proficiency, counts as monk weapon, range 20/60) (see PHB for more details).
+
+Monastic tradition:
+    "Way of Shadow"
+    Shadow arts:
+        - Use ki to duplicate the effects of the following spells:
+            - Darkness,
+            - Darkvision,
+            - Pass without trace, 
+            - Silence
+        - Gain "minor illusion" cantrip.
+
 
 Ki points: 
-    Total: 2
-    Remaining: 2
+    Total: 3
+    Remaining: 3
 
 #################################
 Calculations (on creation): 
