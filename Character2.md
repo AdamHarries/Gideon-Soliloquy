@@ -2,16 +2,16 @@ Thelonious (monk)
 
 
 XP: 84,000
-Level: 3/10
+Level: 4/10
 HP: 68
 Hit recovery die: 1d8 (per monk level)
-Proficiency bonus: 
+Proficiency bonus: +2
 
 Str: 11                                                            + 0
-Dex: 17 (17->19, goliath starter, modified by tasha's cauldron)    + 3
+Dex: 20 (17->19, goliath starter, modified by tasha's cauldron)    + 5
 Cons: 13 (12->13, goliath starter)                                 + 1
 Int: 14                                                            + 2
-Wis: 14                                                            + 2
+Wis: 15                                                            + 2
 Char: 8                                                            - 1
 
 Physical characteristics:
@@ -52,6 +52,8 @@ Monk things:
         - Use reaction to deflect or catch a missile when hit by a ranged weapon attack.
         - Damage reduced by 1d10 + dex modifier + monk level
         - If damage reduced to 0, it can be caught. If caught, can spend 1 ki to throw it back (proficiency, counts as monk weapon, range 20/60) (see PHB for more details).
+    Slow fall: 
+        - Can use reaction when falling to reduce fall damage by 5x monk level.
 
 Monastic tradition:
     "Way of Shadow"
@@ -65,8 +67,8 @@ Monastic tradition:
 
 
 Ki points: 
-    Total: 3
-    Remaining: 3
+    Total: 4
+    Remaining: 4
 
 #################################
 Calculations (on creation): 
