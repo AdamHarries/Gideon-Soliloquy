@@ -2,10 +2,11 @@ Thelonious (monk)
 
 
 XP: 84,000
-Level: 4/10
+Level: 5/10
 HP: 68
 Hit recovery die: 1d8 (per monk level)
-Proficiency bonus: +2
+Proficiency bonus: +3
+Martial art die: 1d6
 
 Str: 11                                                            + 0
 Dex: 20 (17->19, goliath starter, modified by tasha's cauldron)    + 5
@@ -44,7 +45,7 @@ Monk things:
         Step of the wind: Spend 1 ki point to Disengage or Dash as a bonus action. Jump distance is doubled for the turn.
     Martial arts:
         - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
-        - Roll a die (d4) in place of normal damage for unarmed strike or monk weapon (updated with level)
+        - Roll the martial arts die in place of normal damage for unarmed strike or monk weapon
         - When using "attack", can make one unarmed strike as a bonus action.
     Unarmored Movement:
         - Speed increases by 10ft when not wearing armour or shield.
@@ -54,6 +55,11 @@ Monk things:
         - If damage reduced to 0, it can be caught. If caught, can spend 1 ki to throw it back (proficiency, counts as monk weapon, range 20/60) (see PHB for more details).
     Slow fall: 
         - Can use reaction when falling to reduce fall damage by 5x monk level.
+    Extra attack:
+        - Can attack twice
+    Stunning strike:
+        - When hitting another creature with a melee weapon attack, spend one 1 ki point to attempt a stunning strike
+        - Target must succeed on a constitution saving throw, or be stunned until the end of your next turn.
 
 Monastic tradition:
     "Way of Shadow"
@@ -67,8 +73,8 @@ Monastic tradition:
 
 
 Ki points: 
-    Total: 4
-    Remaining: 4
+    Total: 5
+    Remaining: 5
 
 #################################
 Calculations (on creation): 
