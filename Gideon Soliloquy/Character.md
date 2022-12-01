@@ -2,7 +2,7 @@
 
 XP: 135027 (next level, 140,000xp)
 Level: 13
-HP: 173 - 8 (From the water slide)
+HP: 173
 Hit recovery die: 5d10 (currently 4)
 Proficiency bonus: +5
 
@@ -44,14 +44,14 @@ Magic things:
 GP: 84
 
 Attack Bonus: 
-    - sword:                  +4 (str) +5 (proficiency) +3 (sword) = 11
-    - giant str potion:       +7 (str) +5 (proficiency) +3 (sword) = 15
-    - storm giant str potion: +9 (str) +5 (proficiency) +3 (sword) = 17
+    - sword:                  +4 (str) +5 (proficiency) +2 (sword) = 11
+    - giant str potion:       +7 (str) +5 (proficiency) +2 (sword) = 14
+    - storm giant str potion: +9 (str) +5 (proficiency) +2 (sword) = 16
 
 Damage Bonus: 
-    - simple:                  +4 (str) +3 (sword)     = 7
-    - giant str potion:        +7 (str) +3 (sword/axe) = 10
-    - storm giant str potion:  +9 (str) +3 (sword/axe) = 12
+    - simple:                  +4 (str) +2 (sword)     = 6
+    - giant str potion:        +7 (str) +2 (sword) = 9
+    - storm giant str potion:  +9 (str) +2 (sword) = 11
 
 Equipment:
     - Plate Mail armour (AC 18)
@@ -87,7 +87,7 @@ Spells:
 
 Spell slots:
     - Unlimited cantrips
-    - 4 first level  (3 left)
+    - 4 first level  (4 left)
     - 3 second level (3 left)
     - 2 third level  (2 left)
 

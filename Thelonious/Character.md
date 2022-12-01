@@ -1,4 +1,4 @@
-Thelonious (monk)
+# Thelonious (monk)
 
 XP: 84,000
 Level: 10
@@ -6,12 +6,12 @@ HP: 68
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +4
 
-Str: 11                                                            + 0
-Dex: 20 (17->19, goliath starter, modified by tasha's cauldron)    + 5
-Cons: 13 (12->13, goliath starter)                                 + 1
-Int: 14                                                            + 2
-Wis: 15                                                            + 2
-Char: 8                                                            - 1
+Str: 11                                                         + 0
+Dex: 20 (17->19, goliath starter, modified by tasha's cauldron) + 5
+Cons: 13 (+2 in orn) (12->13, goliath starter)                  + 1
+Int: 14                                                         + 2
+Wis: 15                                                         + 2
+Char: 8                                                         - 1
 
 Physical characteristics:
     Speed: 30ft (walking)
@@ -33,15 +33,26 @@ Equipment:
     - Explorer's pack
     - 10 darts (1d4 piercing, finesse, thrown 20/60)
 
-Martial art die: 1d6
+Martial art die (for unarmed strikes): 1d6
 Ki points: 
     Total: 10
-    Remaining: 10
- 
+    Remaining: 9
+
+Attack bonus: 
+    - staff: +5 (dex) +4 (proficiency) = 9
+    - open hand: +5 (dex) +4 (proficiency) = 9
+    - knife: +5 (dex) +4 (proficiency) = 9
+
+Damage: 
+    - staff (2-hand): 1d8 +5 (dex)
+    - staff (1-hand): 1d6 +5 (dex)
+    - open hand:      1d6 (monk die) +5 (dex)
+    - knife:          1d4 +5 (dex)
+
 Monk things:
     (See PHB for details on regaining ki)
-    Unarmored defense: when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus
-    Martial arts:
+    Unarmored defense: when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus (17)
+    Martial arts (attacks):
         - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
         - Roll the martial arts die in place of normal damage for unarmed strike or monk weapon
         - When using "attack", can make one unarmed strike as a bonus action.

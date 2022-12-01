@@ -1,0 +1,18 @@
+# Initial XP
++ 84000
+
+# Fighting on the galleon! (pt. 1)
++ 1250 (For climbing to the galleon, navigating, dodging lightning bolt, shadow step, and stunning the skeleton)
+
+# Fighting on the galleon! (pt. 2)
++ 350 (For casting silence)
++ 50 (For defeating the skeleton)
++ 1500 (For capturing the galleon!)
+
+# After the fight
++ 50 (For helping tow the galleon)
++ 30 (For experiencing transport via trees)
++ 1000 (For finding out about the coin)
+
+# FIghting in the balrog nest
++ 4000 (Various fighting etc)

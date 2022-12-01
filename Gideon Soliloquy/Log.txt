@@ -557,3 +557,25 @@ Item: Bottle of potion
 + 100 (For waking him up and annoying someone with a hangover)
 + 100 (Noticing how skinny Aloysious is)
 + 100 (For remembering the great race vampires)
++ 50 (For being suspicious of the dogs & rats)
+
+# Taking over the galleon!
++ 1000 (For actually taking over the galleon)
+
+# Fighting on the galleon! (pt. 1)
++ 500 (For organising the raid)
++ 800 (For fighting his way through the boat)
+
+# Fighting on the galleon! (pt. 2)
++ 200 (For various spells: shield, firebolt)
++ 1500 (For capturing the galleon!)
+
+# After the fight
++ 200 (Interrogating a skeleton)
++ 30 (Tying up the skeleton)
++ 50 (For helping tow the galleon)
++ 600 (For ideas, such as dragging the ship, and recognising a multiverse map)
++ 1000 (For finding out about the coin)
+
+# In the orn stronghold
++ 400 (Various activities, such as firebolt)
