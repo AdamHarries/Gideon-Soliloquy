@@ -1,12 +1,12 @@
 # Gideon Soliloquy
 
-XP: 135027 (next level, 140,000xp)
-Level: 13
-HP: 173
-Hit recovery die: 5d10 (currently 4)
+XP: 142607 (next level, 165,000xp)
+Level: 14
+HP: 188
+Hit recovery die: 5d10 (currently 5)
 Proficiency bonus: +5
 
-Str:    18 (16->18, mnt Dwarf) (+2 in orn)                  +4 (+4 in orn)
+Str:    20 (16->18, mnt Dwarf) (+2 in orn)                  +5 (+5 in orn)
     With fire giant strength potion: 25                     +7
     With fire giant strength potion: 29                     +9
 Dex:    15                    (+1 in orn)  (-1 in fire dim) +2 (+3 in orn)
