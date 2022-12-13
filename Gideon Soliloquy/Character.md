@@ -2,7 +2,7 @@
 
 XP: 142607 (next level, 165,000xp)
 Level: 14
-HP: 188
+HP: 188 (+10 temp, 5 hours)
 Hit recovery die: 5d10 (currently 5)
 Proficiency bonus: +5
 
@@ -37,7 +37,6 @@ Feats:
     - Charger: (When dashing, use a bonus action to make one melee weapon attack, or shove a creature)
         -> If moving at least 10 feet, gain +5 bonus to attach damage, or push the target up to 10 feet away
 
-
 Magic things: 
     - DC is 8 + spellcasting modifier (Int) + proficiency bonus
     - Attack roll = spellcasting modifier (Int) + proficiency 
@@ -70,6 +69,7 @@ Equipment:
     - 1x potion (0 doses left) of storm giant strength (with a risk of exhaustion at the end!)
     - 1x potion (2 doses) of "Hill giant strength" (but actually of invunerability)
     - +2 Magic longsword (from "evil party" of gith)
+    - Flying cape (60ft per round)
 
 Spells: 
     - Blade Ward         (action),   (Cantrip), (V, S)

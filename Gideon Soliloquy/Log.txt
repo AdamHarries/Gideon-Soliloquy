@@ -579,3 +579,10 @@ Item: Bottle of potion
 
 # In the orn stronghold
 + 400 (Various activities, such as firebolt)
+
+# Fighting in the balrog nest
++ 4000 (Various bits of fighting etc!)
+
+# After talking with the Ki-rin
++ 1000 (For staying overnight)
++ 150 (For being dwarvish, and talking about dwarvish things!)

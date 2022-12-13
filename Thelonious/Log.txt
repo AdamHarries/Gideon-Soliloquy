@@ -16,3 +16,6 @@
 
 # FIghting in the balrog nest
 + 4000 (Various fighting etc)
+
+# After talking with the Ki-rin
++ 1000 (For staying overnight)
