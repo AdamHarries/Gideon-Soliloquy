@@ -36,7 +36,7 @@ Equipment:
 Martial art die (for unarmed strikes): 1d6
 Ki points: 
     Total: 10
-    Remaining: 9
+    Remaining: 8
 
 Attack bonus: 
     - staff: +5 (dex) +4 (proficiency) = 9
@@ -89,7 +89,7 @@ Monk things:
 Monastic tradition:
     "Way of Shadow"
     Shadow arts:
-        - Use ki to duplicate the effects of the following spells:
+        - Use two ki points to duplicate the effects of the following spells:
             - Darkness,
             - Darkvision,
             - Pass without trace, 
