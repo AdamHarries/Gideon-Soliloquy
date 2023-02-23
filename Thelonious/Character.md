@@ -1,13 +1,13 @@
 # Thelonious (monk)
 
-XP: 84,000
-Level: 10
-HP: 68
+XP: 97,630
+Level: 11
+HP: 76
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +4
 
-Str: 11                                                         + 0
-Dex: 20 (17->19, goliath starter, modified by tasha's cauldron) + 5
+Str: 11 (+2 in orn)                                             + 0
+Dex: 20 (+1 in orn) (17->19, goliath starter, modified by tasha's cauldron) + 5
 Cons: 13 (+2 in orn) (12->13, goliath starter)                  + 1
 Int: 14                                                         + 2
 Wis: 15                                                         + 2
@@ -36,7 +36,7 @@ Equipment:
 Martial art die (for unarmed strikes): 1d6
 Ki points: 
     Total: 10
-    Remaining: 9
+    Remaining: 8
 
 Attack bonus: 
     - staff: +5 (dex) +4 (proficiency) = 9
@@ -85,11 +85,14 @@ Monk things:
         - Use an action to end one effect on yourself that is causing you to be "charmed" or "frightened"
     Purity of body:
         - Immune to disease + poison
+    Cloak of Shadows:
+        - When in an aread of dim light or darkness, use an action to become invisible. Remain invisible until making an attack or enter bright light.
+
 
 Monastic tradition:
     "Way of Shadow"
     Shadow arts:
-        - Use ki to duplicate the effects of the following spells:
+        - Spend 2 ki points to duplicate the effects of the following spells:
             - Darkness,
             - Darkvision,
             - Pass without trace, 

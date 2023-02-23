@@ -586,3 +586,10 @@ Item: Bottle of potion
 # After talking with the Ki-rin
 + 1000 (For staying overnight)
 + 150 (For being dwarvish, and talking about dwarvish things!)
+
+# From talking to the gnomes
++ 1000 (For discovering the full shape of the multiverse)
++ 400 (For learning more about ixixion)
+
+# Fighting the beholder!
++ 2000 (Base level exp)

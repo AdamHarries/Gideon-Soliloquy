@@ -31,7 +31,7 @@ Fighter things:
     - Attack thrice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
     - Second Wind (Use a bonus action to regain hitpoints)
-    - Indomitable (Reroll a failed saving throw) (used)
+    - Indomitable (Reroll a failed saving throw) (used once)
 
 Feats: 
     - Charger: (When dashing, use a bonus action to make one melee weapon attack, or shove a creature)
@@ -48,7 +48,7 @@ Attack Bonus:
     - storm giant str potion: +9 (str) +5 (proficiency) +2 (sword) = 16
 
 Damage Bonus: 
-    - simple:                  +4 (str) +2 (sword)     = 6
+    - simple:                  +4 (str) +2 (sword) = 6
     - giant str potion:        +7 (str) +2 (sword) = 9
     - storm giant str potion:  +9 (str) +2 (sword) = 11
 

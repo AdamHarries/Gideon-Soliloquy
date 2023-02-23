@@ -19,3 +19,15 @@
 
 # After talking with the Ki-rin
 + 1000 (For staying overnight)
+
+# The ghosts, and the hydra
++ 700 (For listening to the ghosts)
++ 200 (For casting silence)
+
+# From talking to the gnomes
++ 1000 (For discovering the full shape of the multiverse)
++ 100 (For going to check out the beholder)
++ 400 (For learning more about ixixion)
+
+# Fighting the beholder!
++ 2000 (Base level exp)
