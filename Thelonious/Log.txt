@@ -24,6 +24,9 @@
 + 700 (For listening to the ghosts)
 + 200 (For casting silence)
 
+# Investigating the pub & cellars
++ 500 (For pass without trace)
+
 # From talking to the gnomes
 + 1000 (For discovering the full shape of the multiverse)
 + 100 (For going to check out the beholder)
