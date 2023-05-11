@@ -36,7 +36,7 @@ Equipment:
 Martial art die (for unarmed strikes): 1d6
 Ki points: 
     Total: 10
-    Remaining: 8
+    Remaining: 10
 
 Attack bonus: 
     - staff: +5 (dex) +4 (proficiency) = 9
@@ -93,11 +93,11 @@ Monastic tradition:
     "Way of Shadow"
     Shadow arts:
         - Spend 2 ki points to duplicate the effects of the following spells:
-            - Darkness,
-            - Darkvision,
-            - Pass without trace, 
-            - Silence
-        - Gain "minor illusion" cantrip.
+            - Darkness (https://5e.tools/spells.html#darkness_phb),
+            - Darkvision (https://5e.tools/spells.html#darkvision_phb),
+            - Pass without trace (https://5e.tools/spells.html#pass%20without%20trace_phb), 
+            - Silence (https://5e.tools/spells.html#silence_phb)
+        - Gain "minor illusion" cantrip (https://5e.tools/spells.html#minor%20illusion_phb).
     Shadow step: 
         - Step from one shadow into another.
         - When in dim light or darkness, as a bonus action, teleport up to 60ft to an unoccupied space (that you can see) that is also in dim light or darkness.

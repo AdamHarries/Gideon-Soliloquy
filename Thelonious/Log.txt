@@ -34,3 +34,12 @@
 
 # Fighting the beholder!
 + 2000 (Base level exp)
+
+# Finding the boxes
++ 4000 (Finding the boxes!)
++ 300 (Initial bits of planning)
++ 200 (For maybe finding stella?)
+
+# In Chez Stella
++ 700 (For dispelling the illusion)
++ 150 (For sneaking)

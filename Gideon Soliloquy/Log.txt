@@ -593,3 +593,14 @@ Item: Bottle of potion
 
 # Fighting the beholder!
 + 2000 (Base level exp)
+
+# Finding the boxes
++ 4000 (Finding the boxes!)
++ 300 (Initial bits of planning)
++ 700 (For knocking on the door)
++ 200 (For the letter to the doorman)
++ 200 (For maybe finding stella?)
+
+# In Chez Stella
++ 300 (For negotiating with stella)
++ 1700 (For fighting the statues)
