@@ -604,3 +604,10 @@ Item: Bottle of potion
 # In Chez Stella
 + 300 (For negotiating with stella)
 + 1700 (For fighting the statues)
+
+# More Stella hosue!
++ 2000
+
+# More in Stella's house
++ 250 (Madness, picking up the cloak and picture)
++ 500 (For adventuring on ixixion!)

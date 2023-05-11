@@ -43,3 +43,9 @@
 # In Chez Stella
 + 700 (For dispelling the illusion)
 + 150 (For sneaking)
+
+# More Stella hosue!
++ 2600
+
+# More in Stella's house
++ 500 (For adventuring on ixixion!)
