@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 142607 (next level, 165,000xp)
-Level: 14
-HP: 188 (+10 temp, 5 hours)
+XP: 165557 (next level, 16, 195,000xp)
+Level: 15
+HP: 200 (+10 temp, 5 hours) (-16 (necrotic) -13 (bludgeoning) -17 (necrotic) + Cursed with Mummy Rot -9 (sword) -8 (necrotic) + 15)
 Hit recovery die: 5d10 (currently 5)
 Proficiency bonus: +5
 
@@ -11,7 +11,7 @@ Str:    20 (16->18, mnt Dwarf) (+2 in orn)                  +5 (+5 in orn)
     With fire giant strength potion: 29                     +9
 Dex:    15                    (+1 in orn)  (-1 in fire dim) +2 (+3 in orn)
     (dexterity throws have adv with haste)
-Cons:   19 (17->19 mnt Dwarf) (+2 in orn)  (-2 in fire dim) +4 (+5 in orn) 
+Cons:   19 (17->19 mnt Dwarf) (+2 in orn)  (-2 in fire dim) +4 (+5 in orn)
 Int:    14                                 (-1 in fire dim) +2 
 Wis:    14                                                  +2
 Char:   10                                                  +1
@@ -20,7 +20,7 @@ Skills:
     - Athletics (Str)
     - Intimidation (Char)
 
-Proficiency: 
+Proficiency:
     - Archery
     - Mason's tools.
     - Light and medium armour (mountain dwarf)
@@ -31,9 +31,9 @@ Fighter things:
     - Attack thrice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
     - Second Wind (Use a bonus action to regain hitpoints)
-    - Indomitable (Reroll a failed saving throw) (used once)
+    - Indomitable (Reroll a failed saving throw) (2/2)
 
-Feats: 
+Feats:
     - Charger: (When dashing, use a bonus action to make one melee weapon attack, or shove a creature)
         -> If moving at least 10 feet, gain +5 bonus to attach damage, or push the target up to 10 feet away
 
@@ -84,6 +84,7 @@ Spells:
     - Earthbind          (action),   (Lv 2), (V) (Concentration, up to 1 min, from XGE)
     - Scorching Ray      (action),   (Lv 2), (V, S)
     - Counterspell       (reaction), (Lv 3), (V)
+    - Intellect Fortress (action), (Lv 3), (V) (Concentration, up to 1 hour, from TCE)
 
 Spell slots:
     - Unlimited cantrips
@@ -242,6 +243,28 @@ Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire dam
 
 When you cast this spell using a spell slot of 3rd level or higher, you create one additional ray for each slot level above 2nd.
 
+### Counterspell PHD p228
+Level   School  Casting Time    Range
+3rd     Abjuration  1 reaction  60 feet
+Components  Duration
+S           Instantaneous
+
+You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.
+At Higher Levels.
+
+When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.
+
+### Intellect Fortress TCE p107
+Level   School  Casting Time    Range
+3rd     Abjuration  1 action    30ft
+Components  Duration
+V   Concentration, up to 1 hour
+
+For the duration, you or one willing creature you can see within range has resistance to psychic damage, as well as advantage on Intelligence, Wisdom, and Charisma saving throws.
+At Higher Levels.
+
+When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 30 feet of each other when you target them.
+
 ## #################################### ##
 ##        Dwarf (Mountain) PHB p20      ##
 ## #################################### ##
@@ -353,8 +376,8 @@ When a creature you can see attacks a target other than you that is within 5 fee
 Two-Weapon Fighting 
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-### Second Wind PHB p72 
-You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level. 
+### Second Wind PHB p72
+You have a limited well of stamina that you can draw on to protect yourself from harm. On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level.
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
 ### Action Surge PHB p72 

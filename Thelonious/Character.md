@@ -1,8 +1,8 @@
 # Thelonious (monk)
 
-XP: 97,630
-Level: 11
-HP: 76
+XP: 110730
+Level: 12
+HP: 85 (-23 (thunder) - 21 (necrotic) + 15)
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +4
 
@@ -10,7 +10,7 @@ Str: 11 (+2 in orn)                                             + 0
 Dex: 20 (+1 in orn) (17->19, goliath starter, modified by tasha's cauldron) + 5
 Cons: 13 (+2 in orn) (12->13, goliath starter)                  + 1
 Int: 14                                                         + 2
-Wis: 15                                                         + 2
+Wis: 17                                                         + 3
 Char: 8                                                         - 1
 
 Physical characteristics:
@@ -29,21 +29,21 @@ Proficiency:
 Equipment:
     - Ornately engraved antique hunting horn
     - Simple carving knife (counts as a dagger, 1d4 piercing, finesse, light, thrown 20/60)
-    - A hand carved walking staff (counts as a quaterstaff, 1d6 bludgeoning, versatile 1d8) 
+    - A hand carved walking staff (counts as a quaterstaff, 1d6 bludgeoning, versatile 1d8)
     - Explorer's pack
     - 10 darts (1d4 piercing, finesse, thrown 20/60)
 
 Martial art die (for unarmed strikes): 1d6
 Ki points: 
     Total: 10
-    Remaining: 10
+    Remaining: 6
 
-Attack bonus: 
+Attack bonus:
     - staff: +5 (dex) +4 (proficiency) = 9
     - open hand: +5 (dex) +4 (proficiency) = 9
     - knife: +5 (dex) +4 (proficiency) = 9
 
-Damage: 
+Damage:
     - staff (2-hand): 1d8 +5 (dex)
     - staff (1-hand): 1d6 +5 (dex)
     - open hand:      1d6 (monk die) +5 (dex)
@@ -68,7 +68,7 @@ Monk things:
         - Use reaction to deflect or catch a missile when hit by a ranged weapon attack.
         - Damage reduced by 1d10 + dex modifier + monk level
         - If damage reduced to 0, it can be caught. If caught, can spend 1 ki to throw it back (proficiency, counts as monk weapon, range 20/60) (see PHB for more details).
-    Slow fall: 
+    Slow fall:
         - Can use reaction when falling to reduce fall damage by 5x monk level.
     Extra attack:
         - Can attack twice
@@ -95,10 +95,10 @@ Monastic tradition:
         - Spend 2 ki points to duplicate the effects of the following spells:
             - Darkness (https://5e.tools/spells.html#darkness_phb),
             - Darkvision (https://5e.tools/spells.html#darkvision_phb),
-            - Pass without trace (https://5e.tools/spells.html#pass%20without%20trace_phb), 
+            - Pass without trace (https://5e.tools/spells.html#pass%20without%20trace_phb),
             - Silence (https://5e.tools/spells.html#silence_phb)
         - Gain "minor illusion" cantrip (https://5e.tools/spells.html#minor%20illusion_phb).
-    Shadow step: 
+    Shadow step:
         - Step from one shadow into another.
         - When in dim light or darkness, as a bonus action, teleport up to 60ft to an unoccupied space (that you can see) that is also in dim light or darkness.
         - Have advantage on first melee attack made before the end of the turn.
@@ -108,7 +108,7 @@ Feats:
         - You can prepare and deliver deadly poisons, granting you the following benefits:
         - When you make a damage roll that deals poison damage, it ignores resistance to poison damage.
         - You can apply poison to a weapon or piece of ammunition as a bonus action, instead of an action.
-        - You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus. 
+        - You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus.
         - Once applied to a weapon or piece of ammunition, the poison retains its potency for 1 minute or until you hit with the weapon or ammunition. 
         - When a creature takes damage from the coated weapon or ammunition, that creature must succeed on a DC 14 Constitution saving throw or take 2d8 poison damage and become poisoned until the end of your next turn.
 

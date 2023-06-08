@@ -49,3 +49,7 @@
 
 # More in Stella's house
 + 500 (For adventuring on ixixion!)
+
+# Setting the bug to find the bombs
++ 150 (For chatting with Joe)
++ 4000 (For fighting Geoff and the Mummy)

@@ -611,3 +611,8 @@ Item: Bottle of potion
 # More in Stella's house
 + 250 (Madness, picking up the cloak and picture)
 + 500 (For adventuring on ixixion!)
+
+# Setting the bug to find the bombs
++ 150 (For chatting with Joe)
++ 100 (For writing the descriptions)
++ 4000 (For fighting Geoff and the Mummy)
