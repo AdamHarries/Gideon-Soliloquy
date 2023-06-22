@@ -1,10 +1,10 @@
 # Thelonious (monk)
 
-XP: 110730
-Level: 12
-HP: 85 (-23 (thunder) - 21 (necrotic) + 15)
+XP: 125730
+Level: 13
+HP: 94
 Hit recovery die: 1d8 (per monk level)
-Proficiency bonus: +4
+Proficiency bonus: +5
 
 Str: 11 (+2 in orn)                                             + 0
 Dex: 20 (+1 in orn) (17->19, goliath starter, modified by tasha's cauldron) + 5
@@ -33,10 +33,10 @@ Equipment:
     - Explorer's pack
     - 10 darts (1d4 piercing, finesse, thrown 20/60)
 
-Martial art die (for unarmed strikes): 1d6
+Martial art die (for unarmed strikes): 1d8
 Ki points: 
-    Total: 10
-    Remaining: 6
+    Total: 13
+    Remaining: 13
 
 Attack bonus:
     - staff: +5 (dex) +4 (proficiency) = 9
@@ -87,6 +87,8 @@ Monk things:
         - Immune to disease + poison
     Cloak of Shadows:
         - When in an aread of dim light or darkness, use an action to become invisible. Remain invisible until making an attack or enter bright light.
+    Tongue of the Sun and Moon:
+        - Understand all spoken languages, and any creature that can understand language can understand what I say.
 
 
 Monastic tradition:

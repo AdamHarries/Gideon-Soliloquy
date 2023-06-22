@@ -53,3 +53,7 @@
 # Setting the bug to find the bombs
 + 150 (For chatting with Joe)
 + 4000 (For fighting Geoff and the Mummy)
+
+# The council of Gerion
++ 10000 (For figuring out that the deacon wants to nuke orn)
++ 5000 (For figuring out why the Gith fully left, rather than changing worlds)
