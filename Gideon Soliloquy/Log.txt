@@ -620,3 +620,30 @@ Item: Bottle of potion
 # The council of Gerion
 + 10000 (For figuring out that the deacon wants to nuke orn)
 + 5000 (For figuring out why the Gith fully left, rather than changing worlds)
+
+# In the lonely forest
++ 1000 (For the general journey through the forest)
+
+# Around the higgledy field
++ 7200 (discovering and doing)
+
+# Planning around in the past
++ 600 (For recounting dreams)
++ 150 (For struggling to learn static charge)
++ 2000 (For going back in time)
+
+# Going back in time!
++ 700 (For learning about the coming battles)
++ 700 (For going back in time)
+
+# Killing finder!
++ 2000 (baseline)
++ 3500 (For attacking various things)
++ 500 (For witnessing "Gate" being cast)
+
+# Discussing the upcoming attack
++ 1000
+
+# Defeating the tarrasque
++ 8000 (Baseline)
++ 8000 (Fighting it hand-to-hand)

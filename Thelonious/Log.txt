@@ -57,3 +57,31 @@
 # The council of Gerion
 + 10000 (For figuring out that the deacon wants to nuke orn)
 + 5000 (For figuring out why the Gith fully left, rather than changing worlds)
+
+# In the lonely forest
++ 400 (For resiting the questing beast.)
++ 250 (For talking to the space man.)
++ 1000 (For the general journey through the forest)
+
+# Around the higgledy field
++ 7000 (discovering and doing)
+
+# Planning around in the past
++ 600 (For recounting dreams)
++ 2000 (For going back in time)
+
+# Going back in time!
++ 700 (For learning about the coming battles)
++ 700 (For going back in time)
++ 500 (For casting silence)
+
+# Killing finder!
++ 2000 (baseline)
++ 4000 (For stunning finder, and fighting the snake and Chimerae)
+
+# Discussing the upcoming attack
++ 1000
+
+# Defeating the tarrasque
++ 8000 (Baseline)
++ 8000 (Fighting it hand-to-hand)

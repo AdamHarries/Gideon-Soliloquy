@@ -1,8 +1,8 @@
 # Thelonious (monk)
 
-XP: 125730
+XP: 134380
 Level: 13
-HP: 94
+HP: 94 -20-36
 Hit recovery die: 1d8 (per monk level)
 Proficiency bonus: +5
 
@@ -34,9 +34,9 @@ Equipment:
     - 10 darts (1d4 piercing, finesse, thrown 20/60)
 
 Martial art die (for unarmed strikes): 1d8
-Ki points: 
+Ki points:
     Total: 13
-    Remaining: 13
+    Remaining: 11
 
 Attack bonus:
     - staff: +5 (dex) +4 (proficiency) = 9
@@ -51,7 +51,7 @@ Damage:
 
 Monk things:
     (See PHB for details on regaining ki)
-    Unarmored defense: when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus (17)
+    Unarmored defense: when wearing no armor & no shield, AC = 10 + dex modifier + wisdom bonus (18)
     Martial arts (attacks):
         - Use dexterity instead of strengh for the attack + damage rolls of unarmed strikes + monk weapons
         - Roll the martial arts die in place of normal damage for unarmed strike or monk weapon
@@ -111,7 +111,7 @@ Feats:
         - When you make a damage roll that deals poison damage, it ignores resistance to poison damage.
         - You can apply poison to a weapon or piece of ammunition as a bonus action, instead of an action.
         - You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus.
-        - Once applied to a weapon or piece of ammunition, the poison retains its potency for 1 minute or until you hit with the weapon or ammunition. 
+        - Once applied to a weapon or piece of ammunition, the poison retains its potency for 1 minute or until you hit with the weapon or ammunition.
         - When a creature takes damage from the coated weapon or ammunition, that creature must succeed on a DC 14 Constitution saving throw or take 2d8 poison damage and become poisoned until the end of your next turn.
 
 
@@ -126,5 +126,5 @@ Values for ability scores:
 3 + 2 + 6 + 2 = 11
 3 + 1 + 3 + 2 = 8
 
-HP: 
+HP:
 (8 + 1) + 5 + 7 + 5 + 5 + 5 + 5 + 5 + 5 + 7 + (10)

@@ -1,8 +1,8 @@
 # Gideon Soliloquy
 
-XP: 165557 (next level, 16, 195,000xp)
+XP: 188757 (next level, 16, 195,000xp)
 Level: 15
-HP: 200 (+10 temp, 5 hours) (-16 (necrotic) -13 (bludgeoning) -17 (necrotic) + Cursed with Mummy Rot -9 (sword) -8 (necrotic) + 15)
+HP: 200 -39/2 (Piercing)
 Hit recovery die: 5d10 (currently 5)
 Proficiency bonus: +5
 
@@ -12,11 +12,11 @@ Str:    20 (16->18, mnt Dwarf) (+2 in orn)                  +5 (+5 in orn)
 Dex:    15                    (+1 in orn)  (-1 in fire dim) +2 (+3 in orn)
     (dexterity throws have adv with haste)
 Cons:   19 (17->19 mnt Dwarf) (+2 in orn)  (-2 in fire dim) +4 (+5 in orn)
-Int:    14                                 (-1 in fire dim) +2 
+Int:    14                                 (-1 in fire dim) +2
 Wis:    14                                                  +2
 Char:   10                                                  +1
 
-Skills: 
+Skills:
     - Athletics (Str)
     - Intimidation (Char)
 
@@ -31,7 +31,7 @@ Fighter things:
     - Attack thrice (when using "attack")
     - Action surge (Once per short rest, take an extra action on top of regular/bonus action)
     - Second Wind (Use a bonus action to regain hitpoints)
-    - Indomitable (Reroll a failed saving throw) (2/2)
+    - Indomitable (Reroll a failed saving throw) (1/2)
 
 Feats:
     - Charger: (When dashing, use a bonus action to make one melee weapon attack, or shove a creature)
@@ -43,14 +43,14 @@ Magic things:
 GP: 84
 
 Attack Bonus: 
-    - sword:                  +4 (str) +5 (proficiency) +2 (sword) = 11
-    - giant str potion:       +7 (str) +5 (proficiency) +2 (sword) = 14
-    - storm giant str potion: +9 (str) +5 (proficiency) +2 (sword) = 16
+    - sword:                  +5 (str) +5 (proficiency) +2 (sword) = 12
+    - giant str potion:       +8 (str) +5 (proficiency) +2 (sword) = 13
+    - storm giant str potion: +10 (str) +5 (proficiency) +2 (sword) = 17
 
-Damage Bonus: 
-    - simple:                  +4 (str) +2 (sword) = 6
-    - giant str potion:        +7 (str) +2 (sword) = 9
-    - storm giant str potion:  +9 (str) +2 (sword) = 11
+Damage Bonus:
+    - simple:                  +5 (str) +2 (sword) = 7
+    - giant str potion:        +6 (str) +2 (sword) = 10
+    - storm giant str potion:  +10 (str) +2 (sword) = 12
 
 Equipment:
     - Plate Mail armour (AC 18)
@@ -68,6 +68,9 @@ Equipment:
     - 1x potion of flame breath (3 fire breaths per hour)
     - 1x potion (0 doses left) of storm giant strength (with a risk of exhaustion at the end!)
     - 1x potion (2 doses) of "Hill giant strength" (but actually of invunerability)
+    - 1x potion (2 doses) of "Superior Healing"
+    - 1x potion (1 dose) of "Heroism"
+    - 1x potion (1 dose) of "SuperHeroism"
     - +2 Magic longsword (from "evil party" of gith)
     - Flying cape (60ft per round)
 
@@ -88,7 +91,7 @@ Spells:
 
 Spell slots:
     - Unlimited cantrips
-    - 4 first level  (4 left)
+    - 4 first level  (3 left)
     - 3 second level (3 left)
     - 2 third level  (2 left)
 
